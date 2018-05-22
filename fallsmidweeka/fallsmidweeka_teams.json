@@ -1,0 +1,79 @@
+{
+    "me": "FALLSMA",
+	"teams": {
+		"FALLSMA": {
+			"name": "Midweek A",
+			"location": "Falls Bowling & Tennis Club, 63 Andersonstown Rd, Belfast, Belfast BT11 9AH, United Kingdom"
+		}
+		,
+		"NICS": {
+			"name": "NICS",
+			"location": "The Pavilion Stormont Estate, Belfast BT4 3TA"
+		}
+		,
+		"KNOCK": {
+			"name": "CI-Knock",
+			"location": "91 Circular Rd, Belfast BT4 2GD"
+		}
+		,
+		"DUNBA": {
+			"name": "Dunbarton",
+			"location": "54 Dunbarton St, Gilford, Craigavon BT63 6HJ"
+		}
+		,
+		"SALIS": {
+			"name": "Salisbury",
+			"location": "32 Salisbury Ave, Belfast BT15 5DZ"
+		}
+		,
+		"CLIFT": {
+			"name": "Cliftonville",
+			"location": "23 Knutsford Dr, Belfast BT14 6LZ"
+		}
+		,
+		"BALLW": {
+			"name": "Ballywalter",
+			"location": "23 Knutsford Dr, Belfast BT14 6LZ"
+		}
+		,
+		"ARDS": {
+			"name": "Ards",
+			"location": "70 South St, Newtownards BT23 4JU"
+		}
+		,
+		"BELMA": {
+			"name": "Belmont A",
+			"location": "16 Belmont Park, Belfast, BT4 3DU"
+		}
+		,
+		"LARNE": {
+			"name": "Larne",
+			"location": "112 Glenarm Rd, Larne BT40 1DZ"
+		}
+		,
+		"MOSSL": {
+			"name": "Mossley",
+			"location": "54.691641, -5.950702"
+		}
+		,
+		"DOWNP": {
+			"name": "Downpatrick",
+			"location": "54.336094, -5.716538"
+		}
+		,
+		"UTRAN": {
+			"name": "U Transport",
+			"location": "25 Lynda Ave, Newtownabbey BT37 0NX"
+		}
+		,
+		"BALLM": {
+			"name": "Ballymena",
+			"location": "10 Old Ballymoney Rd, Ballymena BT43 6LX"
+		}
+		,
+		"EWART": {
+			"name": "Ewarts",
+			"location": "15 Somerdale Park, Belfast, BT14 7HD"
+		}
+	}
+}

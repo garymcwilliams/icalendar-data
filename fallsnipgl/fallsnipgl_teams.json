@@ -1,0 +1,19 @@
+{
+    "me": "FALLSN",
+	"teams": {
+		"FALLSN": {
+			"name": "Me",
+			"location": "Falls Bowling & Tennis Club, 63 Andersonstown Rd, Belfast, Belfast BT11 9AH, United Kingdom"
+		}
+		,
+		"WILLO": {
+			"name": "Willowfield",
+			"location": "Gibson Park Gardens, Belfast BT6 9GN"
+		}
+		,
+		"DOWNP": {
+			"name": "Downpatrick",
+			"location": "TBD"
+		}
+	}
+}

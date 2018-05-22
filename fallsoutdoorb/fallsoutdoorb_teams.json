@@ -1,0 +1,54 @@
+{
+    "me": "FALLSB",
+	"teams": {
+		"FALLSB": {
+			"name": "Falls B",
+			"location": "Falls Bowling & Tennis Club, 63 Andersonstown Rd, Belfast, Belfast BT11 9AH, United Kingdom"
+		}
+		,
+		"ARDSB": {
+			"name": "Ards B",
+			"location": "70 South St, Newtownards BT23 4JU"
+		}
+		,
+		"BALLC": {
+			"name": "Ballymena C",
+			"location": "10 Old Ballymoney Rd, Ballymena BT43 6LX"
+		}
+		,
+		"BELMC": {
+			"name": "Belmont C",
+			"location": "16 Belmont Park, Belfast, BT4 3DU"
+		}
+		,
+		"COMBE": {
+			"name": "Comber",
+			"location": "5 Londonderry Ave, Comber, Newtownards BT23 5ES"
+		}
+		,
+		"EWARB": {
+			"name": "Ewarts B",
+			"location": "15 Somerdale Park, Belfast, BT14 7HD"
+		}
+		,
+		"MALON": {
+			"name": "Malone",
+			"location": "240 Upper Malone Rd, Dunmurry, Belfast BT17 9GA"
+		}
+		,
+		"OLDBL": {
+			"name": "Old Bleach B",
+			"location": "7 Neillsbrook Park, Randalstown, Antrim BT41 3AE"
+		}
+		,
+		"SHORT": {
+			"name": "Shorts",
+			"location": "411-403 Holywood Rd, Belfast, BT4 2LP"
+		}
+		,
+		"UTRAN": {
+			"name": "U Transport",
+			"location": "25 Lynda Ave, Newtownabbey BT37 0NX"
+		}
+	}
+}

@@ -109,6 +109,15 @@
 		}
 		,
 		{
+			"label": "PGL Cup",
+			"home": "FALLSB",
+			"home_score": 1,
+			"away": "ARDSB",
+			"away_score": 0,
+			"date": "2018-07-05_18:30"
+		}
+		,
+		{
 			"home": "FALLSB",
 			"home_score": 0,
 			"away": "MALON",

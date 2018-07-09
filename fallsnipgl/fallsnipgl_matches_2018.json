@@ -14,7 +14,7 @@
 			"label": "Club Triples",
 			"home": "FALLSN",
 			"home_score": 1,
-			"away": "--Murph",
+			"away": "Murph",
 			"away_score": 0,
 			"date": "2018-05-06_11:00"
 		}
@@ -23,7 +23,7 @@
 			"label": "Open Singles",
 			"home": "FALLSN",
 			"home_score": 0,
-			"away": "--Ryan Morgan",
+			"away": "Ryan Morgan",
 			"away_score": 0,
 			"date": "2018-05-20_11:00"
 		}
@@ -32,7 +32,7 @@
 			"label": "Junior Singles",
 			"home": "FALLSN",
 			"home_score": 21,
-			"away": "--Michael Gannon",
+			"away": "Michael Gannon",
 			"away_score": 7,
 			"date": "2018-05-27_11:00"
 			,"newdate": "2018-05-15_19:00"
@@ -54,6 +54,33 @@
 			"away": "FALLSN",
 			"away_score": 0,
 			"date": "2018-06-15_18:30"
+		}
+		,
+		{
+			"label": "2-bowl Pairs",
+			"home": "FALLSN",
+			"home_score": 0,
+			"away": "Liam Trainor",
+			"away_score": 0,
+			"date": "2018-08-22_17:00"
+		}
+		,
+		{
+			"label": "Triples",
+			"home": "FALLSN",
+			"home_score": 0,
+			"away": "Jim Murtagh",
+			"away_score": 0,
+			"date": "2018-07-29_16:30"
+		}
+		,
+		{
+			"label": "Open Singles",
+			"home": "FALLSN",
+			"home_score": 0,
+			"away": "Michael McCafferty",
+			"away_score": 0,
+			"date": "2018-08-03_16:30"
 		}
 	]
 }

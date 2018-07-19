@@ -91,10 +91,19 @@
 		,
 		{
 			"home": "DOWNP",
+			"home_score": 5,
+			"away": "FALLSMA",
+			"away_score": 2,
+			"date": "2018-07-18_18:30"
+		}
+		,
+		{
+			"label": "Midweek Cup",
+			"home": "LARNE",
 			"home_score": 0,
 			"away": "FALLSMA",
 			"away_score": 0,
-			"date": "2018-07-18_18:30"
+			"date": "2018-07-19_18:30"
 		}
 		,
 		{

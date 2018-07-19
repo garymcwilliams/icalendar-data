@@ -43,7 +43,7 @@
 		,
 		{
 			"home": "FALLSB",
-			"home_score": 0,
+			"home_score": 7,
 			"away": "COMBE",
 			"away_score": 0,
 			"date": "2018-05-26_14:00"
@@ -54,7 +54,7 @@
 			"home": "OLDBL",
 			"home_score": 0,
 			"away": "FALLSB",
-			"away_score": 0,
+			"away_score": 1,
 			"date": "2018-06-02_17:30"
 		}
 		,
@@ -78,16 +78,17 @@
 		{
 			"label": "PGL Cup",
 			"home": "FALLSB",
-			"home_score": 0,
-			"away": "CUP",
-			"away_score": 0,
+			"home_score": 94,
+			"away": "UTRAN",
+			"away_score": 56,
 			"date": "2018-06-14_18:30"
 		}
 		,
 		{
-			"home": "FALLSB",
+			"label": "Irish Cup",
+			"home": "Carrickfergus B",
 			"home_score": 0,
-			"away": "BALLC",
+			"away": "FALLSB",
 			"away_score": 0,
 			"date": "2018-06-16_14:00"
 		}
@@ -95,24 +96,33 @@
 		{
 			"home": "FALLSB",
 			"home_score": 0,
-			"away": "EWARB",
+			"away": "BALLC",
 			"away_score": 0,
+			"date": "2018-06-16_14:00",
+			"newdate": "2018-06-19_18:30"
+		}
+		,
+		{
+			"home": "FALLSB",
+			"home_score": 5.5,
+			"away": "EWARB",
+			"away_score": 1.5,
 			"date": "2018-06-23_14:00"
 		}
 		,
 		{
 			"home": "ARDSB",
 			"home_score": 0,
-			"away": "FALLB",
+			"away": "FALLSB",
 			"away_score": 0,
 			"date": "2018-06-30_14:00"
 		}
 		,
 		{
 			"label": "PGL Cup",
-			"home": "FALLSB",
-			"home_score": 1,
-			"away": "ARDSB",
+			"home": "ARDSB",
+			"home_score": 0,
+			"away": "FALLSB",
 			"away_score": 0,
 			"date": "2018-07-05_18:30"
 		}

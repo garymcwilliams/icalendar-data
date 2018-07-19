@@ -27,58 +27,68 @@
 		,
 		{
 			"home": "FALLSMA",
-			"home_score": 0,
+			"home_score": 5,
 			"away": "SALIS",
-			"away_score": 0,
+			"away_score": 2,
 			"date": "2018-05-23_18:30"
 		}
 		,
 		{
 			"home": "CLIFT",
-			"home_score": 0,
+			"home_score": 4.5,
 			"away": "FALLSMA",
-			"away_score": 0,
+			"away_score": 2.5,
 			"date": "2018-05-30_18:30"
 		}
 		,
 		{
 			"home": "FALLSMA",
-			"home_score": 0,
+			"home_score": 7,
 			"away": "BALLW",
 			"away_score": 0,
 			"date": "2018-06-06_18:30"
 		}
 		,
 		{
-			"home": "FALLSMA",
-			"home_score": 0,
-			"away": "CUP",
-			"away_score": 0,
+			"label": "PG Cup",
+			"home": "CLIFT",
+			"home_score": 58,
+			"away": "FALLSMA",
+			"away_score": 97,
 			"date": "2018-06-07_18:30"
 		}
 		,
 		{
 			"home": "FALLSMA",
-			"home_score": 0,
+			"home_score": 2,
 			"away": "BELMA",
-			"away_score": 0,
+			"away_score": 5,
 			"date": "2018-06-13_18:30"
 		}
 		,
 		{
 			"home": "FALLSMA",
-			"home_score": 0,
+			"home_score": 1,
 			"away": "LARNE",
-			"away_score": 0,
+			"away_score": 6,
 			"date": "2018-06-20_18:30"
 		}
 		,
 		{
 			"home": "MOSSL",
+			"home_score": 2,
+			"away": "FALLSMA",
+			"away_score": 5,
+			"date": "2018-06-27_18:30"
+		}
+		,
+		{
+			"label": "PG Cup",
+			"home": "PICKA",
 			"home_score": 0,
 			"away": "FALLSMA",
-			"away_score": 0,
-			"date": "2018-06-27_18:30"
+			"away_score": 1,
+			"date": "2018-06-28_18:30"
 		}
 		,
 		{

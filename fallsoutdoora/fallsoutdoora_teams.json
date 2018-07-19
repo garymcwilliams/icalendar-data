@@ -4,46 +4,51 @@
 		"FALLSA": {
 			"name": "Falls A",
 			"location": "Falls Bowling & Tennis Club, 63 Andersonstown Rd, Belfast, Belfast BT11 9AH, United Kingdom"
-		},
-		"EWART": {
+		}
+		,
+		"ARDSA": {
+			"name": "Ards A",
+			"location": "70 South St, Newtownards BT23 4JU"
+		}
+		,
+		"BELMA": {
+			"name": "Belmont A",
+			"location": "16 Belmont Park, Belfast, BT4 3DU"
+		}
+		,
+		"BALYA": {
+			"name": "Ballymena A",
+			"location": "10 Old Ballymoney Rd, Ballymena BT43 6LX"
+		}
+		,
+		"DUNBA": {
+			"name": "Dunbarton",
+			"location": "54 Dunbarton St, Gilford, Craigavon BT63 6HJ"
+		}
+		,
+		"EWARA": {
 			"name": "Ewarts A",
-			"location": "Falls Bowling & Tennis Club, 63 Andersonstown Rd, Belfast, Belfast BT11 9AH, United Kingdom"
-		},
-		"CLONA": {
-			"name": "Clonard",
-			"location": "Musgrave Park, 7JB, Stockmans Ln, Belfast BT9, UK"
-		},
-		"HANNA": {
-			"name": "Hannahstown",
-			"location": "Musgrave Park, 7JB, Stockmans Ln, Belfast BT9, UK"
-		},
-		"WOODB": {
-			"name": "Woodbourne",
-			"location": "Horn Drive Community Centre, 44A Horn Dr, Belfast BT11 9GS, UK"
-		},
-		"STPAU": {
-			"name": "St Paul's",
-			"location": "47 Beechmount Avenue, Belfast BT12, UK"
-		},
-		"HOLYC": {
-			"name": "Holy Cross",
-			"location": "40 Herbert St, Belfast BT14 7FH"
-		},
-		"STMIC": {
-			"name": "St Michael's",
-			"location": "St. Michaels chapel, 327 Finaghy Rd N, Belfast BT11 9EH, UK"
-		},
-		"RIVER": {
-			"name": "Riverdale",
-			"location": "St. Michaels chapel, 327 Finaghy Rd N, Belfast BT11 9EH, UK"
-		},
-		"STANN": {
-			"name": "St Anne's",
-			"location": "St Anne's Presbytery, Kingsway, Belfast BT10 0LF"
-		},
-		"HOLYC": {
-			"name": "Holy Cross",
-			"location": "40 Herbert St, Belfast BT14 7FH"
+			"location": "15 Somerdale Park, Belfast, BT14 7HD"
+		}
+		,
+		"OLDBL": {
+			"name": "Old Bleach A",
+			"location": "7 Neillsbrook Park, Randalstown, Antrim BT41 3AE"
+		}
+		,
+		"LARNA": {
+			"name": "Larne A",
+			"location": "112 Glenarm Rd, Larne BT40 1DZ"
+		}
+		,
+		"PICKA": {
+			"name": "Pickie A",
+			"location": "17 Broadway, Bangor BT20 4TS"
+		}
+		,
+		"UTRNA": {
+			"name": "U Transport A",
+			"location": "25 Lynda Ave, Newtownabbey BT37 0NX"
 		}
 	}
 }

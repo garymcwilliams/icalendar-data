@@ -8,8 +8,7 @@
 			"away": "FALLSN",
 			"away_score": 12,
 			"date": "2018-04-30_18:30"
-		}
-		,
+		},
 		{
 			"label": "Club Triples",
 			"home": "FALLSN",
@@ -17,8 +16,7 @@
 			"away": "Murph",
 			"away_score": 0,
 			"date": "2018-05-06_11:00"
-		}
-		,
+		},
 		{
 			"label": "Open Singles",
 			"home": "FALLSN",
@@ -26,8 +24,7 @@
 			"away": "Ryan Morgan",
 			"away_score": 7,
 			"date": "2018-05-20_11:00"
-		}
-		,
+		},
 		{
 			"label": "Junior Singles",
 			"home": "FALLSN",
@@ -36,8 +33,7 @@
 			"away_score": 7,
 			"date": "2018-05-27_11:00"
 			,"newdate": "2018-05-15_19:00"
-		}
-		,
+		},
 		{
 			"label": "Senior Fours",
 			"home": "FALLSN",
@@ -45,8 +41,7 @@
 			"away": "DOWNP",
 			"away_score": 0,
 			"date": "2018-05-22_18:30"
-		}
-		,
+		},
 		{
 			"label": "Senior Fours",
 			"home": "EWART",
@@ -54,8 +49,7 @@
 			"away": "FALLSN",
 			"away_score": 15,
 			"date": "2018-06-12_18:30"
-		}
-		,
+		},
 		{
 			"label": "Fours",
 			"home": "WILLO",
@@ -63,8 +57,7 @@
 			"away": "FALLSN",
 			"away_score": 16,
 			"date": "2018-06-15_18:30"
-		}
-		,
+		},
 		{
 			"label": "Junior Singles",
 			"home": "FALLSN",
@@ -73,8 +66,7 @@
 			"away_score": 21,
 			"date": "2018-06-10_11:30"
 			,"newdate": "2018-06-08_18:30"
-		}
-		,
+		},
 		{
 			"label": "Open Singles",
 			"home": "FALLSN",
@@ -83,8 +75,7 @@
 			"away_score": 16,
 			"date": "2018-06-24_11:00",
 			"newdate": "2018-06-21_18:30"
-		}
-		,
+		},
 		{
 			"label": "2-bowl Pairs",
 			"home": "FALLSN",
@@ -92,8 +83,7 @@
 			"away": "Liam Trainor",
 			"away_score": 12,
 			"date": "2018-07-22_17:00"
-		}
-		,
+		},
 		{
 			"label": "Triples",
 			"home": "FALLSN",
@@ -102,15 +92,22 @@
 			"away_score": 0,
 			"date": "2018-07-29_16:30",
 			"newdate": "2018-07-29_18:30"
-		}
-		,
+		},
 		{
 			"label": "Open Singles",
 			"home": "FALLSN",
-			"home_score": 0,
+			"home_score": 20,
 			"away": "Michael McCafferty",
-			"away_score": 0,
+			"away_score": 21,
 			"date": "2018-08-05_16:30"
+		},
+		{
+			"label": "2-bowl Pairs",
+			"home": "FALLSN",
+			"home_score": 0,
+			"away": "TBD",
+			"away_score": 0,
+			"date": "2018-08-19_16:00"
 		}
-]
+	]
 }

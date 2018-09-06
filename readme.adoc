@@ -1,0 +1,48 @@
+= Data Formats
+
+The Data for the app has 2 requirements, defined as follows
+
+= Teams
+
+The teams format is:
+[source,json,indent=0]
+----
+{
+    "me": "FALLS",
+	"teams": {
+		"FALLS": {
+			"name": "Falls A",
+			"location": "Falls Bowling & Tennis Club, 63 Andersonstown Rd, Belfast, Belfast BT11 9AH, United Kingdom"
+		},
+		"FALLB": {
+			"name": "Falls B",
+			"location": "Falls Bowling & Tennis Club, 63 Andersonstown Rd, Belfast, Belfast BT11 9AH, United Kingdom"
+		},
+----
+
+`me` refers to which is "my team" from the list of teams included.
+each `team` entry then has the following values: +
+`KEY`: is the keyname used to select this team in the matches list. Under each KEY are the full team details +
+`name`: Full Name of the team +
+`location`: Address in google maps for the team
+
+= Matches
+
+[source,json,indent=0]
+----
+{
+	"duration": 3,
+	"matches": [
+		{
+			"home": "CLONA",
+			"home_score": 11,
+			"away": "FALLS",
+			"away_score": 2,
+			"date": "2017-10-02_19:30"
+----
+
+Fairly simple structure, home team (KEY), away team (KEY), date and score. home team and away team are KEYS to data within the Team element.
+
+There are additional optional entries available: +
+`label`: An optional label for the match description, e.g. "Devine Cup" +
+`newdate`: If a match date is changed, then add the new date. Keeping the original date means that the ICS unique key remains the same and the match is moved within the calendar rather than duplicated.

@@ -2,16 +2,16 @@
 	"duration": 3,
 	"matches": [
 		{
-			"away": "CLONA",
-			"our_score": 11,
-			"opp_score": 2,
-			"date": "2017-10-02_19:30"
+			"away": "STANN",
+			"our_score": 0,
+			"opp_score": 0,
+			"date": "2018-09-16_19:30"
 		},
 		{
-			"home": "WOODB",
-			"our_score": 13,
+			"home": "CLONA",
+			"our_score": 0,
 			"opp_score": 0,
-			"date": "2017-10-12_19:30"
+			"date": "2018-09-27_19:30"
 		}
 	]
 }

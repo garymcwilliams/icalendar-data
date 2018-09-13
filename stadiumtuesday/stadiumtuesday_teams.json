@@ -10,8 +10,12 @@
             "name": "B Bell",
             "location": "Belfast Indoor Bowls Club, 115 Milltown Rd, Belfast BT8 7XP, UK"
         },
-        "EDMON": {
-            "name": "N Edmondson",
+        "FAWCU": {
+            "name": "J Fawcus",
+            "location": "Belfast Indoor Bowls Club, 115 Milltown Rd, Belfast BT8 7XP, UK"
+        },
+        "FISHE": {
+            "name": "P Fisher",
             "location": "Belfast Indoor Bowls Club, 115 Milltown Rd, Belfast BT8 7XP, UK"
         },
         "HENDE": {
@@ -24,6 +28,14 @@
         },
         "OROUR": {
             "name": "A O'Rourke",
+            "location": "Belfast Indoor Bowls Club, 115 Milltown Rd, Belfast BT8 7XP, UK"
+        },
+        "PORTE": {
+            "name": "G Porter",
+            "location": "Belfast Indoor Bowls Club, 115 Milltown Rd, Belfast BT8 7XP, UK"
+        },
+        "REID": {
+            "name": "M Reid",
             "location": "Belfast Indoor Bowls Club, 115 Milltown Rd, Belfast BT8 7XP, UK"
         },
         "TRAIN": {

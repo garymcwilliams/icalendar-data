@@ -9,7 +9,7 @@
 			"date": "2018-09-18"
 		},
 		{
-			"away": "FAWCU",
+			"home": "FAWCU",
 			"our_score": 22,
 			"opp_score": 4,
 			"date": "2018-09-25"
@@ -21,7 +21,7 @@
 			"date": "2018-10-02"
 		},
 		{
-			"away": "SIMPS",
+			"home": "SIMPS",
 			"our_score": 0,
 			"opp_score": 0,
 			"date": "2018-10-09"
@@ -33,13 +33,13 @@
 			"date": "2018-10-16"
 		},
 		{
-			"away": "MCBRI",
+			"home": "MCBRI",
 			"our_score": 0,
 			"opp_score": 0,
 			"date": "2018-10-23"
 		},
 		{
-			"away": "FISHE",
+			"home": "FISHE",
 			"our_score": 0,
 			"opp_score": 0,
 			"date": "2018-10-30"
@@ -51,7 +51,7 @@
 			"date": "2018-11-06"
 		},
 		{
-			"away": "OROUR",
+			"home": "OROUR",
 			"our_score": 0,
 			"opp_score": 0,
 			"date": "2018-11-13"
@@ -63,13 +63,13 @@
 			"date": "2018-11-20"
 		},
 		{
-			"away": "HENDE",
+			"home": "HENDE",
 			"our_score": 0,
 			"opp_score": 0,
 			"date": "2018-11-27"
 		},
 		{
-			"away": "REID",
+			"home": "REID",
 			"our_score": 0,
 			"opp_score": 0,
 			"date": "2018-12-04"
@@ -87,7 +87,7 @@
 			"date": "2018-12-18"
 		},
 		{
-			"away": "FAWCU",
+			"home": "FAWCU",
 			"our_score": 0,
 			"opp_score": 0,
 			"date": "2019-01-08"
@@ -99,7 +99,7 @@
 			"date": "2019-01-15"
 		},
 		{
-			"away": "SIMPS",
+			"home": "SIMPS",
 			"our_score": 0,
 			"opp_score": 0,
 			"date": "2019-01-22"
@@ -111,13 +111,13 @@
 			"date": "2019-01-29"
 		},
 		{
-			"away": "MCBRI",
+			"home": "MCBRI",
 			"our_score": 0,
 			"opp_score": 0,
 			"date": "2019-02-05"
 		},
 		{
-			"away": "FISHE",
+			"home": "FISHE",
 			"our_score": 0,
 			"opp_score": 0,
 			"date": "2019-02-12"
@@ -129,7 +129,7 @@
 			"date": "2019-02-19"
 		},
 		{
-			"away": "OROUR",
+			"home": "OROUR",
 			"our_score": 0,
 			"opp_score": 0,
 			"date": "2019-02-26"
@@ -141,13 +141,13 @@
 			"date": "2019-03-05"
 		},
 		{
-			"away": "HENDE",
+			"home": "HENDE",
 			"our_score": 0,
 			"opp_score": 0,
 			"date": "2019-03-12"
 		},
 		{
-			"away": "REID",
+			"home": "REID",
 			"our_score": 0,
 			"opp_score": 0,
 			"date": "2019-03-19"

@@ -8,7 +8,7 @@
 			"date": "2018-09-21"
 		},
 		{
-			"away": "MARTI",
+			"home": "MARTI",
 			"our_score": 0,
 			"opp_score": 0,
 			"date": "2018-09-28"
@@ -20,7 +20,7 @@
 			"date": "2018-10-05"
 		},
 		{
-			"away": "MCGET",
+			"home": "MCGET",
 			"our_score": 0,
 			"opp_score": 0,
 			"date": "2018-10-12"
@@ -32,13 +32,13 @@
 			"date": "2018-10-19"
 		},
 		{
-			"away": "TROLA",
+			"home": "TROLA",
 			"our_score": 0,
 			"opp_score": 0,
 			"date": "2018-10-26"
 		},
 		{
-			"away": "NEILL",
+			"home": "NEILL",
 			"our_score": 0,
 			"opp_score": 0,
 			"date": "2018-11-02"
@@ -50,7 +50,7 @@
 			"date": "2018-11-09"
 		},
 		{
-			"away": "TINSL",
+			"home": "TINSL",
 			"our_score": 0,
 			"opp_score": 0,
 			"date": "2018-11-16"
@@ -62,7 +62,7 @@
 			"date": "2018-11-23"
 		},
 		{
-			"away": "HANNA",
+			"home": "HANNA",
 			"our_score": 0,
 			"opp_score": 0,
 			"date": "2018-11-30"
@@ -74,7 +74,7 @@
 			"date": "2018-12-07"
 		},
 		{
-			"away": "MARTI",
+			"home": "MARTI",
 			"our_score": 0,
 			"opp_score": 0,
 			"date": "2018-12-14"
@@ -86,7 +86,7 @@
 			"date": "2018-12-21"
 		},
 		{
-			"away": "MCGET",
+			"home": "MCGET",
 			"our_score": 0,
 			"opp_score": 0,
 			"date": "2018-12-28"
@@ -98,13 +98,13 @@
 			"date": "2019-01-04"
 		},
 		{
-			"away": "TROLA",
+			"home": "TROLA",
 			"our_score": 0,
 			"opp_score": 0,
 			"date": "2019-01-11"
 		},
 		{
-			"away": "NEILL",
+			"home": "NEILL",
 			"our_score": 0,
 			"opp_score": 0,
 			"date": "2019-01-18"
@@ -116,7 +116,7 @@
 			"date": "2019-01-25"
 		},
 		{
-			"away": "TINSL",
+			"home": "TINSL",
 			"our_score": 0,
 			"opp_score": 0,
 			"date": "2019-02-01"
@@ -128,7 +128,7 @@
 			"date": "2019-02-15"
 		},
 		{
-			"away": "HANNA",
+			"home": "HANNA",
 			"our_score": 0,
 			"opp_score": 0,
 			"date": "2019-02-22"
@@ -140,7 +140,7 @@
 			"date": "2019-03-01"
 		},
 		{
-			"away": "MARTI",
+			"home": "MARTI",
 			"our_score": 0,
 			"opp_score": 0,
 			"date": "2019-03-08"
@@ -152,7 +152,7 @@
 			"date": "2019-03-15"
 		},
 		{
-			"away": "MCGET",
+			"home": "MCGET",
 			"our_score": 0,
 			"opp_score": 0,
 			"date": "2019-03-22"

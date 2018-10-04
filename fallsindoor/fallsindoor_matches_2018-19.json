@@ -24,7 +24,8 @@
 			"home": "STPAU",
 			"our_score": 0,
 			"opp_score": 0,
-			"date": "2018-10-11"
+			"date": "2018-10-11",
+			"newdate": "2018-10-09"
 		},
 		{
 			"away": "FALLB",
@@ -60,7 +61,8 @@
 			"home": "STANN",
 			"our_score": 0,
 			"opp_score": 0,
-			"date": "2018-11-22"
+			"date": "2018-11-22",
+			"newdate": "2018-11-20"
 		},
 		{
 			"away": "CLONA",
@@ -72,7 +74,8 @@
 			"home": "RIVER",
 			"our_score": 0,
 			"opp_score": 0,
-			"date": "2018-12-06"
+			"date": "2018-12-06",
+			"newdate": "2018-12-04"
 		},
 		{
 			"away": "STPAU",

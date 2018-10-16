@@ -1,0 +1,55 @@
+location: Belfast Indoor Bowls Club, 115 Milltown Rd, Belfast BT8 7XP, UK
+me: CAMPB
+start_time: '19:15'
+teams:
+  BELL:
+    location: Belfast Indoor Bowls Club, 115 Milltown Rd, Belfast BT8 7XP, UK
+    name: B Bell
+  CAMPB:
+    location: Belfast Indoor Bowls Club, 115 Milltown Rd, Belfast BT8 7XP, UK
+    name: J H Campbell
+  DUFFI:
+    location: Belfast Indoor Bowls Club, 115 Milltown Rd, Belfast BT8 7XP, UK
+    name: J Duffin
+  FAWCU:
+    location: Belfast Indoor Bowls Club, 115 Milltown Rd, Belfast BT8 7XP, UK
+    name: J Fawcus
+  FISHE:
+    location: Belfast Indoor Bowls Club, 115 Milltown Rd, Belfast BT8 7XP, UK
+    name: P Fisher
+  HEDLE:
+    location: Belfast Indoor Bowls Club, 115 Milltown Rd, Belfast BT8 7XP, UK
+    name: M Hedley
+  HENDE:
+    location: Belfast Indoor Bowls Club, 115 Milltown Rd, Belfast BT8 7XP, UK
+    name: J Henderson
+  HUNTE:
+    location: Belfast Indoor Bowls Club, 115 Milltown Rd, Belfast BT8 7XP, UK
+    name: B Hunter
+  MCBRI:
+    location: Belfast Indoor Bowls Club, 115 Milltown Rd, Belfast BT8 7XP, UK
+    name: P McBrinn
+  MCINT:
+    location: Belfast Indoor Bowls Club, 115 Milltown Rd, Belfast BT8 7XP, UK
+    name: I McIntyre
+  ORORK:
+    location: Belfast Indoor Bowls Club, 115 Milltown Rd, Belfast BT8 7XP, UK
+    name: I O'Rorke
+  OROUR:
+    location: Belfast Indoor Bowls Club, 115 Milltown Rd, Belfast BT8 7XP, UK
+    name: A O'Rourke
+  PORTE:
+    location: Belfast Indoor Bowls Club, 115 Milltown Rd, Belfast BT8 7XP, UK
+    name: G Porter
+  REID:
+    location: Belfast Indoor Bowls Club, 115 Milltown Rd, Belfast BT8 7XP, UK
+    name: M Reid
+  SIMPS:
+    location: Belfast Indoor Bowls Club, 115 Milltown Rd, Belfast BT8 7XP, UK
+    name: M Simpson
+  THOMP:
+    location: Belfast Indoor Bowls Club, 115 Milltown Rd, Belfast BT8 7XP, UK
+    name: E Thompson
+  TRAIN:
+    location: Belfast Indoor Bowls Club, 115 Milltown Rd, Belfast BT8 7XP, UK
+    name: L Trainor

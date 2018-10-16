@@ -20,6 +20,12 @@
 			"date": "2018-10-18"
 		},
 		{
+			"away": "PRIES",
+			"our_score": 0,
+			"opp_score": 0,
+			"date": "2018-10-23"
+		},
+		{
 			"away": "KILLA",
 			"our_score": 0,
 			"opp_score": 0,
@@ -29,7 +35,8 @@
 			"home": "PRIES",
 			"our_score": 0,
 			"opp_score": 0,
-			"date": "2018-11-08"
+			"date": "2018-11-08",
+			"newdate": "2018-11-05"
 		},
 		{
 			"home": "SOLDI",

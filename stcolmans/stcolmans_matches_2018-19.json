@@ -20,10 +20,12 @@
 			"date": "2018-10-18"
 		},
 		{
+			"label": "Cup",
 			"away": "PRIES",
 			"our_score": 0,
 			"opp_score": 0,
-			"date": "2018-10-23"
+			"date": "2018-10-23",
+			"start_time": "19:30"
 		},
 		{
 			"away": "KILLA",

@@ -1,110 +1,110 @@
 duration: 3
 matches:
-- date: '2018-09-18'
-  home: HUNTE
+- home: HUNTE
+  date: '2018-09-18'
+  our_score: 15
   opp_score: 18
-  our_score: 15
-- date: '2018-09-25'
-  home: FAWCU
-  opp_score: 4
+- home: FAWCU
+  date: '2018-09-25'
   our_score: 22
-- date: '2018-10-02'
-  home: TRAIN
   opp_score: 4
+- home: TRAIN
+  date: '2018-10-02'
   our_score: 0
-- date: '2018-10-09'
-  home: SIMPS
-  opp_score: 14
+  opp_score: 4
+- home: SIMPS
+  date: '2018-10-09'
   our_score: 15
-- date: '2018-10-16'
-  home: DUFFI
-  opp_score: 0
+  opp_score: 14
+- home: DUFFI
+  date: '2018-10-16'
   our_score: 0
-- date: '2018-10-23'
-  home: MCBRI
   opp_score: 0
+- home: MCBRI
+  date: '2018-10-23'
   our_score: 0
-- date: '2018-10-30'
-  home: FISHE
   opp_score: 0
+- home: FISHE
+  date: '2018-10-30'
   our_score: 0
-- date: '2018-11-06'
-  home: PORTE
   opp_score: 0
+- home: PORTE
+  date: '2018-11-06'
   our_score: 0
-- date: '2018-11-13'
-  home: OROUR
   opp_score: 0
+- home: OROUR
+  date: '2018-11-13'
   our_score: 0
-- date: '2018-11-20'
-  home: MCINT
   opp_score: 0
+- home: MCINT
+  date: '2018-11-20'
   our_score: 0
-- date: '2018-11-27'
-  home: HENDE
   opp_score: 0
+- home: HENDE
+  date: '2018-11-27'
   our_score: 0
-- date: '2018-12-04'
-  home: REID
   opp_score: 0
+- home: REID
+  date: '2018-12-04'
   our_score: 0
-- date: '2018-12-11'
-  home: THOMP
   opp_score: 0
+- home: THOMP
+  date: '2018-12-11'
   our_score: 0
-- date: '2018-12-18'
-  home: HUNTE
   opp_score: 0
+- home: HUNTE
+  date: '2018-12-18'
   our_score: 0
-- date: '2019-01-08'
-  home: FAWCU
   opp_score: 0
+- home: FAWCU
+  date: '2019-01-08'
   our_score: 0
-- date: '2019-01-15'
-  home: TRAIN
   opp_score: 0
+- home: TRAIN
+  date: '2019-01-15'
   our_score: 0
-- date: '2019-01-22'
-  home: SIMPS
   opp_score: 0
+- home: SIMPS
+  date: '2019-01-22'
   our_score: 0
-- date: '2019-01-29'
-  home: DUFFI
   opp_score: 0
+- home: DUFFI
+  date: '2019-01-29'
   our_score: 0
-- date: '2019-02-05'
-  home: MCBRI
   opp_score: 0
+- home: MCBRI
+  date: '2019-02-05'
   our_score: 0
-- date: '2019-02-12'
-  home: FISHE
   opp_score: 0
+- home: FISHE
+  date: '2019-02-12'
   our_score: 0
-- date: '2019-02-19'
-  home: PORTE
   opp_score: 0
+- home: PORTE
+  date: '2019-02-19'
   our_score: 0
-- date: '2019-02-26'
-  home: OROUR
   opp_score: 0
+- home: OROUR
+  date: '2019-02-26'
   our_score: 0
-- date: '2019-03-05'
-  home: MCINT
   opp_score: 0
+- home: MCINT
+  date: '2019-03-05'
   our_score: 0
-- date: '2019-03-12'
-  home: HENDE
   opp_score: 0
+- home: HENDE
+  date: '2019-03-12'
   our_score: 0
-- date: '2019-03-19'
-  home: REID
   opp_score: 0
+- home: REID
+  date: '2019-03-19'
   our_score: 0
-- date: '2019-03-26'
-  home: THOMP
   opp_score: 0
+- home: THOMP
+  date: '2019-03-26'
   our_score: 0
-- date: '2019-04-02'
-  home: HUNTE
   opp_score: 0
+- home: HUNTE
+  date: '2019-04-02'
   our_score: 0
+  opp_score: 0

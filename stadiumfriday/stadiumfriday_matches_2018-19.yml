@@ -1,111 +1,111 @@
 duration: 3
 matches:
-- date: '2018-09-21'
-  home: IRWIN
-  opp_score: 16
+- home: IRWIN
+  date: '2018-09-21'
   our_score: 10
-- date: '2018-09-28'
-  home: MARTI
+  opp_score: 16
+- home: MARTI
+  date: '2018-09-28'
   newdate: '2018-10-29'
-  opp_score: 0
   our_score: 0
-- date: '2018-10-05'
-  home: MCGLE
-  opp_score: 25
+  opp_score: 0
+- home: MCGLE
+  date: '2018-10-05'
   our_score: 11
-- date: '2018-10-12'
-  home: MCGET
-  opp_score: 16
+  opp_score: 25
+- home: MCGET
+  date: '2018-10-12'
   our_score: 10
-- date: '2018-10-19'
-  home: BRIGG
-  opp_score: 0
+  opp_score: 16
+- home: BRIGG
+  date: '2018-10-19'
   our_score: 0
-- date: '2018-10-26'
-  home: TROLA
   opp_score: 0
+- home: TROLA
+  date: '2018-10-26'
   our_score: 0
-- date: '2018-11-02'
-  home: NEILL
   opp_score: 0
+- home: NEILL
+  date: '2018-11-02'
   our_score: 0
-- date: '2018-11-09'
-  home: HORNE
   opp_score: 0
+- home: HORNE
+  date: '2018-11-09'
   our_score: 0
-- date: '2018-11-16'
-  home: TINSL
   opp_score: 0
+- home: TINSL
+  date: '2018-11-16'
   our_score: 0
-- date: '2018-11-23'
-  home: MOREL
   opp_score: 0
+- home: MOREL
+  date: '2018-11-23'
   our_score: 0
-- date: '2018-11-30'
-  home: HANNA
   opp_score: 0
+- home: HANNA
+  date: '2018-11-30'
   our_score: 0
-- date: '2018-12-07'
-  home: IRWIN
   opp_score: 0
+- home: IRWIN
+  date: '2018-12-07'
   our_score: 0
-- date: '2018-12-14'
-  home: MARTI
   opp_score: 0
+- home: MARTI
+  date: '2018-12-14'
   our_score: 0
-- date: '2018-12-21'
-  home: MCGLE
   opp_score: 0
+- home: MCGLE
+  date: '2018-12-21'
   our_score: 0
-- date: '2018-12-28'
-  home: MCGET
   opp_score: 0
+- home: MCGET
+  date: '2018-12-28'
   our_score: 0
-- date: '2019-01-04'
-  home: BRIGG
   opp_score: 0
+- home: BRIGG
+  date: '2019-01-04'
   our_score: 0
-- date: '2019-01-11'
-  home: TROLA
   opp_score: 0
+- home: TROLA
+  date: '2019-01-11'
   our_score: 0
-- date: '2019-01-18'
-  home: NEILL
   opp_score: 0
+- home: NEILL
+  date: '2019-01-18'
   our_score: 0
-- date: '2019-01-25'
-  home: HORNE
   opp_score: 0
+- home: HORNE
+  date: '2019-01-25'
   our_score: 0
-- date: '2019-02-01'
-  home: TINSL
   opp_score: 0
+- home: TINSL
+  date: '2019-02-01'
   our_score: 0
-- date: '2019-02-15'
-  home: MOREL
   opp_score: 0
+- home: MOREL
+  date: '2019-02-15'
   our_score: 0
-- date: '2019-02-22'
-  home: HANNA
   opp_score: 0
+- home: HANNA
+  date: '2019-02-22'
   our_score: 0
-- date: '2019-03-01'
-  home: IRWIN
   opp_score: 0
+- home: IRWIN
+  date: '2019-03-01'
   our_score: 0
-- date: '2019-03-08'
-  home: MARTI
   opp_score: 0
+- home: MARTI
+  date: '2019-03-08'
   our_score: 0
-- date: '2019-03-15'
-  home: MCGLE
   opp_score: 0
+- home: MCGLE
+  date: '2019-03-15'
   our_score: 0
-- date: '2019-03-22'
-  home: MCGET
   opp_score: 0
+- home: MCGET
+  date: '2019-03-22'
   our_score: 0
-- date: '2019-03-29'
-  home: BRIGG
   opp_score: 0
+- home: BRIGG
+  date: '2019-03-29'
   our_score: 0
+  opp_score: 0

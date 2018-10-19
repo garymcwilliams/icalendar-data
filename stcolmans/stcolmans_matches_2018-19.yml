@@ -10,8 +10,8 @@ matches:
   opp_score: 6.5
 - home: HILDE
   date: '2018-10-18'
-  our_score: 0
-  opp_score: 0
+  our_score: 5
+  opp_score: 2
 - away: PRIES
   date: '2018-10-23'
   label: Cup

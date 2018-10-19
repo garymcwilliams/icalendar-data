@@ -20,11 +20,11 @@ matches:
   opp_score: 3.5
 - away: SALIS
   date: '2018-10-17'
-  our_score: 0
-  opp_score: 0
+  our_score: 1
+  opp_score: 6
 - away: FALLB
   date: '2018-10-18'
-  our_score: 0
+  our_score: 11
   opp_score: 0
 - home: HOLYC
   date: '2018-10-25'

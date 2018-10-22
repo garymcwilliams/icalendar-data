@@ -84,6 +84,11 @@
             "name": "Monaghan",
             "location": "Location",
 			"start_time": "14:00"
+        },
+        "TOUR": {
+			"name": "Short Mat Tour",
+            "location": "Belfast Indoor Bowls Club, 115 Milltown Rd, Belfast BT8 7XP, UK",
+			"start_time": "09:00"
         }
 	}
 }

@@ -63,3 +63,8 @@ matches:
   date: '2019-03-14'
   our_score: 0
   opp_score: 0
+- away: TOUR
+  label: 'World Masters'
+  our_score: 0
+  opp_score: 0
+  date: '2019-04-06'

@@ -28,8 +28,8 @@ matches:
   opp_score: 1
 - home: HOLYC
   date: '2018-10-25'
-  our_score: 0
-  opp_score: 0
+  our_score: 9
+  opp_score: 2
 - away: STMIC
   date: '2018-10-28'
   our_score: 0

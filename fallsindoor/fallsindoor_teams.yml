@@ -21,9 +21,9 @@ teams:
   RIVER:
     location: St. Michaels chapel, 327 Finaghy Rd N, Belfast BT11 9EH, UK
     name: Riverdale
-	SALIS:
-		location: 32 Salisbury Ave, Belfast BT15 5DZ
-		name: Salisbury
+  SALIS:
+    location: 32 Salisbury Ave, Belfast BT15 5DZ
+    name: Salisbury
   STANN:
     location: St Anne's Presbytery, Kingsway, Belfast BT10 0LF
     name: St Anne's

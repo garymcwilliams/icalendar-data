@@ -5,22 +5,18 @@ The Data for the app has 2 requirements, defined as follows
 = Teams
 
 The teams format is:
-[source,json,indent=0]
+[source,yaml,indent=0]
 ----
-{
-    "me": "FALLS",
-	"teams": {
-		"FALLS": {
-			"name": "Falls A",
-			"location": "Falls Bowling & Tennis Club, 63 Andersonstown Rd, Belfast, Belfast BT11 9AH, United Kingdom"
-		},
-		"FALLB": {
-			"name": "Falls B",
-			"location": "Falls Bowling & Tennis Club, 63 Andersonstown Rd, Belfast, Belfast BT11 9AH, United Kingdom"
-		},
+me: FALLSIA
+start_time: '19:30'
+teams:
+  CLONA:
+    location: Musgrave Park, 7JB, Stockmans Ln, Belfast BT9, UK
+    name: Clonard
 ----
 
 `me` refers to which is "my team" from the list of teams included.
+`start_time` is the default start time for matches in this league (optional)
 each `team` entry then has the following values: +
 `KEY`: is the keyname used to select this team in the matches list. Under each KEY are the full team details +
 `name`: Full Name of the team +
@@ -28,20 +24,17 @@ each `team` entry then has the following values: +
 
 = Matches
 
-[source,json,indent=0]
+[source,yaml,indent=0]
 ----
-{
-	"duration": 3,
-	"matches": [
-		{
-			"home": "CLONA",
-			"home_score": 11,
-			"away": "FALLS",
-			"away_score": 2,
-			"date": "2017-10-02_19:30"
+duration: 3
+matches:
+- away: BROOM
+  date: '2018-10-01'
+  our_score: 2
+  opp_score: 5
 ----
 
-Fairly simple structure, home team (KEY), away team (KEY), date and score. home team and away team are KEYS to data within the Team element.
+Fairly simple structure, home or away againt team, date and score. Team is a KEY to data within the Team data.
 
 There are additional optional entries available: +
 `label`: An optional label for the match description, e.g. "Devine Cup" +

@@ -10,20 +10,20 @@ matches:
   opp_score: 4
 - home: TRAIN
   date: '2018-10-02'
-  our_score: 0
-  opp_score: 4
+  our_score: 7
+  opp_score: 12
 - home: SIMPS
   date: '2018-10-09'
   our_score: 15
   opp_score: 14
 - home: DUFFI
   date: '2018-10-16'
-  our_score: 0
-  opp_score: 0
+  our_score: 17
+  opp_score: 12
 - home: MCBRI
   date: '2018-10-23'
-  our_score: 0
-  opp_score: 0
+  our_score: 12
+  opp_score: 8
 - home: FISHE
   date: '2018-10-30'
   our_score: 0

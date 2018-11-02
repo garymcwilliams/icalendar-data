@@ -14,8 +14,8 @@ matches:
   opp_score: 0
 - away: CARAV
   date: '2018-11-01'
-  our_score: 0
-  opp_score: 0
+  our_score: 5.5
+  opp_score: 1.5
 - home: EWART
   date: '2018-11-07'
   our_score: 0

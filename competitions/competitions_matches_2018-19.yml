@@ -1,0 +1,12 @@
+duration: 3
+matches:
+- away: MIDDN
+  label: Lisburn Zone
+  date: '2018-11-24'
+  our_score: 0
+  opp_score: 0
+- away: TOUR
+  label: World Masters
+  date: '2019-04-06'
+  our_score: 0
+  opp_score: 0

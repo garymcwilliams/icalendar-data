@@ -1,0 +1,19 @@
+me: COMP
+start_time: '19:30'
+teams:
+  COMP:
+    location: somewhere
+    name: Me
+  MIDDN:
+    location: F8G6+3M Balloo, Newtownards
+    name: Mid Down
+    start_time: '14:00'
+  TOUR:
+    name: Short Mat Tour
+    location: Belfast Indoor Bowls Club, 115 Milltown Rd, Belfast BT8 7XP, UK
+    start_time: '09:00'
+  ZONE:
+    location: Magheragall Presbyterian Church, 8 School Ln, Upper Ballinderry, Lisburn,
+      BT28 2NT
+    name: Lisburn Zone
+    start_time: '14:00'

@@ -4,6 +4,11 @@ teams:
   COMP:
     location: somewhere
     name: Me
+  BZONE:
+    location: Falls Bowling & Tennis Club, 63 Andersonstown Rd, Belfast, Belfast BT11
+      9AH, United Kingdom
+    name: Belfast Zone
+    start_time: '09:00'
   MIDDN:
     location: F8G6+3M Balloo, Newtownards
     name: Mid Down

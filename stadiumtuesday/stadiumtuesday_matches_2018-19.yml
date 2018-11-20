@@ -1,4 +1,4 @@
-duration: 3
+duration: '2.25'
 matches:
 - home: HUNTE
   date: '2018-09-18'
@@ -30,12 +30,12 @@ matches:
   opp_score: 9
 - home: PORTE
   date: '2018-11-06'
-  our_score: 0
-  opp_score: 0
+  our_score: 9
+  opp_score: 19
 - home: OROUR
   date: '2018-11-13'
-  our_score: 0
-  opp_score: 0
+  our_score: 19
+  opp_score: 13
 - home: MCINT
   date: '2018-11-20'
   our_score: 0

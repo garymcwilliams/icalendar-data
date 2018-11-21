@@ -41,8 +41,8 @@ matches:
 - home: STANN
   date: '2018-11-22'
   newdate: '2018-11-20'
-  our_score: 0
-  opp_score: 0
+  our_score: 7
+  opp_score: 4
 - away: CLONA
   date: '2018-11-26'
   our_score: 0

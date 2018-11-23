@@ -29,8 +29,8 @@ matches:
   opp_score: 7
 - home: SOLDI
   date: '2018-11-22'
-  our_score: 0
-  opp_score: 0
+  our_score: 2
+  opp_score: 5
 - away: SLOAN
   date: '2018-12-06'
   our_score: 0

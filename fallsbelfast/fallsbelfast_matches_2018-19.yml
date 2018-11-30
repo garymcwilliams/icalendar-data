@@ -10,20 +10,20 @@ matches:
   opp_score: 6
 - home: AFM
   date: '2018-10-24'
-  our_score: 7
-  opp_score: 0
+  our_score: 6
+  opp_score: 1
 - away: CARAV
   date: '2018-11-01'
   our_score: 5.5
   opp_score: 1.5
 - home: EWART
   date: '2018-11-07'
-  our_score: 0
-  opp_score: 7
+  our_score: 1
+  opp_score: 6
 - home: BELMO
   date: '2018-11-14'
   our_score: 0
-  opp_score: 0
+  opp_score: 7
 - away: SYDEN
   date: '2018-11-22'
   our_score: 0
@@ -31,7 +31,7 @@ matches:
 - away: CLIFT
   date: '2018-11-28'
   our_score: 0
-  opp_score: 0
+  opp_score: 7
 - away: KINGH
   date: '2018-12-06'
   our_score: 0

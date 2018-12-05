@@ -50,8 +50,8 @@ matches:
 - home: RIVER
   date: '2018-12-06'
   newdate: '2018-12-04'
-  our_score: 0
-  opp_score: 0
+  our_score: 9
+  opp_score: 2
 - away: STPAU
   date: '2018-12-10'
   our_score: 0

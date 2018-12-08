@@ -27,6 +27,7 @@ matches:
   opp_score: 0
 - away: SYDEN
   date: '2018-11-22'
+  newdate:
   our_score: 0
   opp_score: 0
 - away: CLIFT
@@ -39,7 +40,7 @@ matches:
   opp_score: 0
 - home: YORKR
   date: '2019-01-02'
-  newdate: '2019-01-12'
+  newdate:
   our_score: 0
   opp_score: 0
 - home: SALIS

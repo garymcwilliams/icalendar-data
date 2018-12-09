@@ -33,8 +33,8 @@ matches:
   opp_score: 5
 - away: SLOAN
   date: '2018-12-06'
-  our_score: 0
-  opp_score: 0
+  our_score: 1
+  opp_score: 6
 - home: BROOM
   date: '2019-01-10'
   our_score: 0

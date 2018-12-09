@@ -23,14 +23,17 @@ matches:
   opp_score: 20
 - home: TROLA
   date: '2018-10-26'
+  newdate: 
   our_score: 0
   opp_score: 0
 - home: NEILL
   date: '2018-11-02'
+  newdate:
   our_score: 0
   opp_score: 0
 - home: HORNE
   date: '2018-11-09'
+  newdate:
   our_score: 0
   opp_score: 0
 - home: TINSL
@@ -39,16 +42,16 @@ matches:
   opp_score: 13
 - home: MOREL
   date: '2018-11-23'
-  our_score: 0
-  opp_score: 0
+  our_score: 13
+  opp_score: 10
 - home: HANNA
   date: '2018-11-30'
-  our_score: 0
-  opp_score: 0
+  our_score: 23
+  opp_score: 7
 - home: IRWIN
   date: '2018-12-07'
-  our_score: 0
-  opp_score: 0
+  our_score: 9
+  opp_score: 15
 - home: MARTI
   date: '2018-12-14'
   our_score: 0

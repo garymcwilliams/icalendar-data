@@ -10,17 +10,20 @@ The teams format is:
 me: FALLSIA
 start_time: '19:30'
 teams:
-  CLONA:
-    location: Musgrave Park, 7JB, Stockmans Ln, Belfast BT9, UK
-    name: Clonard
+  SLOAN:
+    name: Sloan Street
+    location: 37 Sloan St, Lisburn BT27 5AN
+    start_time: '20:15'
 ----
 
-`me` refers to which is "my team" from the list of teams included.
-`start_time` is the default start time for matches in this league (optional)
+[horizontal]
+`me`:: refers to which is "my team" from the list of teams included.
+`start_time`:: is the default start time for matches in this league (optional, if not provided, every match must include a start time)
 each `team` entry then has the following values: +
-`KEY`: is the keyname used to select this team in the matches list. Under each KEY are the full team details +
-`name`: Full Name of the team +
-`location`: Address in google maps for the team
+`KEY`:: is the keyname used to select this team in the matches list. Under each KEY are the full team details +
+`name`:: Full Name of the team +
+`location`:: Address in google maps for the team
+`start_time`:: If this team starts home matches at a time that is different the normal league start time, then add that. For home matches for this team this time will be used
 
 = Matches
 
@@ -38,4 +41,4 @@ Fairly simple structure, home or away againt team, date and score. Team is a KEY
 
 There are additional optional entries available: +
 `label`: An optional label for the match description, e.g. "Devine Cup" +
-`newdate`: If a match date is changed, then add the new date. Keeping the original date means that the ICS unique key remains the same and the match is moved within the calendar rather than duplicated.
+`newdate`: If a match date is changed, then add the new date. Keeping the original date means that the ICS unique key remains the same and the match is moved within the calendar rather than duplicated. Additionally, if a match is to be re-arranged, but no time has been set then newdate can be left empty. In this case, the match will not be added to the calendar.

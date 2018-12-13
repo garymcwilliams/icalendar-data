@@ -54,6 +54,7 @@ matches:
   opp_score: 2
 - away: STPAU
   date: '2018-12-10'
+  newdate: 
   our_score: 0
   opp_score: 0
 - home: FALLB

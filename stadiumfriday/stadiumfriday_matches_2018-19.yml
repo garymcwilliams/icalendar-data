@@ -75,6 +75,7 @@ matches:
   opp_score: 0
 - home: NEILL
   date: '2019-01-18'
+  newdate:
   our_score: 0
   opp_score: 0
 - home: HORNE

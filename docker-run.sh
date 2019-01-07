@@ -5,4 +5,6 @@ DEBUG=""
 #DEBUG="/bin/bash"
 
 COMP=${1:-stcolmans}
-docker run -p 5000:5000 -e "ICAL_TEAM=${COMP}" -e "ICAL_YEAR=2018-19" -e "ICAL_OUTPUT=/opt/ics-data" -v "/c/Users/gmcwilliams/Dropbox:/opt/ics-data" -e "ICAL_DATAPATH=/app-data" -v "$PWD:/app-data" icalendar $DEBUG
+# allow dynamic mount of app  data, HOWEVER we prefer rebuilding the image with the data in place on each edit
+#-e "ICAL_DATAPATH=/app-data" -v "$PWD:/app-data"
+docker run -p 5000:5000 -e "ICAL_TEAM=${COMP}" -e "ICAL_YEAR=2018-19" -e "ICAL_OUTPUT=/opt/ics-data" -v "/c/Users/gmcwilliams/Dropbox:/opt/ics-data" icalendar $DEBUG

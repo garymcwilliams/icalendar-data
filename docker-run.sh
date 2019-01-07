@@ -5,4 +5,4 @@ DEBUG=""
 #DEBUG="/bin/bash"
 
 COMP=${1:-stcolmans}
-docker run -p 5000:5000 -e "ICAL_TEAM=${COMP}" -e "ICAL_YEAR=2018-19" -e "ICAL_OUTPUT=/opt/ics-data" -v "C:/Users/gmcwilliams/Dropbox:/opt/ics-data" icalendar $DEBUG
+docker run -p 5000:5000 -e "ICAL_TEAM=${COMP}" -e "ICAL_YEAR=2018-19" -e "ICAL_OUTPUT=/opt/ics-data" -v "/c/Users/gmcwilliams/Dropbox:/opt/ics-data" -e "ICAL_DATAPATH=/app-data" -v "$PWD:/app-data" icalendar $DEBUG

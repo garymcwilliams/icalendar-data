@@ -16,6 +16,18 @@ matches:
   start_time: 13:30
   our_score: 0
   opp_score: 0
+- away: Singles
+  label: Lisburn Zone Singles
+  date: '2019-01-21'
+  start_time: 19:30
+  our_score: 0
+  opp_score: 0
+- away: Pairs
+  label: Lisburn Zone Pairs
+  date: '2019-01-24'
+  start_time: 19:30
+  our_score: 0
+  opp_score: 0
 - away: TOUR
   label: World Masters
   date: '2019-04-06'

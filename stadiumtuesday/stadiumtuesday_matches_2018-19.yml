@@ -6,8 +6,8 @@ matches:
   opp_score: 18
 - home: FAWCU
   date: '2018-09-25'
-  our_score: 22
-  opp_score: 4
+  our_score: 25
+  opp_score: 7
 - home: TRAIN
   date: '2018-10-02'
   our_score: 7
@@ -46,13 +46,13 @@ matches:
   opp_score: 14
 - home: REID
   date: '2018-12-04'
+  new_date:
   our_score: 0
   opp_score: 0
 - home: THOMP
   date: '2018-12-11'
-  new_date:
-  our_score: 0
-  opp_score: 0
+  our_score: 14
+  opp_score: 15
 - home: HUNTE
   date: '2018-12-18'
   our_score: 9

@@ -50,16 +50,17 @@ matches:
   opp_score: 0
 - home: THOMP
   date: '2018-12-11'
+  new_date:
   our_score: 0
   opp_score: 0
 - home: HUNTE
   date: '2018-12-18'
-  our_score: 0
-  opp_score: 0
+  our_score: 9
+  opp_score: 16
 - home: FAWCU
   date: '2019-01-08'
-  our_score: 0
-  opp_score: 0
+  our_score: 23
+  opp_score: 9
 - home: TRAIN
   date: '2019-01-15'
   our_score: 0

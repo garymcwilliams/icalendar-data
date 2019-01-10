@@ -13,7 +13,11 @@ matches:
 - away: FOYLE
   label: Lisburn Zone Ladies
   date: '2019-01-12'
-  start_time: 13:30
+  our_score: 0
+  opp_score: 0
+- away: WDOWN
+  label: Lisburn Zone
+  date: '2019-01-19'
   our_score: 0
   opp_score: 0
 - away: Singles

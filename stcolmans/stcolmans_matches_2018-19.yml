@@ -37,8 +37,8 @@ matches:
   opp_score: 6
 - home: BROOM
   date: '2019-01-10'
-  our_score: 0
-  opp_score: 0
+  our_score: 5.5
+  opp_score: 1.5
 - home: BALLI
   date: '2019-01-17'
   our_score: 0

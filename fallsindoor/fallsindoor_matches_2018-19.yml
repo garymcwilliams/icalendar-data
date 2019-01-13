@@ -60,6 +60,11 @@ matches:
 - home: FALLB
   date: '2019-01-10'
   newdate: '2019-01-08'
+  our_score: 6
+  opp_score: 5
+- home: FALLB
+  label: 'Devine Cup'
+  date: '2019-01-15'
   our_score: 0
   opp_score: 0
 - away: HOLYC

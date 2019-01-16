@@ -59,20 +59,21 @@ matches:
   opp_score: 0
 - home: MCGLE
   date: '2018-12-21'
-  our_score: 0
-  opp_score: 0
+  our_score: 8
+  opp_score: 17
 - home: MCGET
   date: '2018-12-28'
+  newdate:
   our_score: 0
   opp_score: 0
 - home: BRIGG
   date: '2019-01-04'
-  our_score: 0
-  opp_score: 0
+  our_score: 3
+  opp_score: 26
 - home: TROLA
   date: '2019-01-11'
-  our_score: 0
-  opp_score: 0
+  our_score: 15
+  opp_score: 10
 - home: NEILL
   date: '2019-01-18'
   newdate:

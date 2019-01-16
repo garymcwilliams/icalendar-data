@@ -54,7 +54,7 @@ matches:
   opp_score: 2
 - away: STPAU
   date: '2018-12-10'
-  newdate: 
+  newdate: '2019-01-21'
   our_score: 0
   opp_score: 0
 - home: FALLB
@@ -65,7 +65,7 @@ matches:
 - home: FALLB
   label: 'Devine Cup'
   date: '2019-01-15'
-  our_score: 0
+  our_score: 1
   opp_score: 0
 - away: HOLYC
   date: '2019-01-29'

@@ -56,8 +56,8 @@ matches:
 - home: CARAV
   date: '2019-01-23'
   newdate: '2019-01-16'
-  our_score: 0
-  opp_score: 0
+  our_score: 5
+  opp_score: 2
 - away: EWART
   date: '2019-01-30'
   newdate: '2019-01-23'

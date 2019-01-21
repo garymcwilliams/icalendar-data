@@ -4,12 +4,12 @@ matches:
   label: Lisburn Zone
   date: '2018-11-24'
   our_score: 0
-  opp_score: 0
+  opp_score: 1
 - away: BZONE
   label: Belfast Zone
   date: '2018-12-01'
   our_score: 0
-  opp_score: 0
+  opp_score: 1
 - away: FOYLE
   label: Lisburn Zone Ladies
   date: '2019-01-12'

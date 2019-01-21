@@ -19,7 +19,7 @@ matches:
   label: Lisburn Zone
   date: '2019-01-19'
   our_score: 0
-  opp_score: 0
+  opp_score: 1
 - away: TOUR
   label: World Masters
   date: '2019-04-06'

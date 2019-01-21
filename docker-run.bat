@@ -1,3 +1,5 @@
+@echo off
+
 :: run for team specified by ICAL_TEAM env var
 
 if "%ICAL_TEAM%"=="" goto no_team

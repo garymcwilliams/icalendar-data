@@ -55,7 +55,7 @@ matches:
 - away: STPAU
   date: '2018-12-10'
   newdate: '2019-01-21'
-  our_score: 0
+  our_score: 11
   opp_score: 0
 - home: FALLB
   date: '2019-01-10'

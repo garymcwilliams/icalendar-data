@@ -73,6 +73,7 @@ matches:
   opp_score: 11
 - home: STMIC
   date: '2019-02-14'
+  start_time: '19:00'
   our_score: 0
   opp_score: 0
 - away: HANNA

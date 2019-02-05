@@ -49,6 +49,7 @@ matches:
   opp_score: 5
 - away: LOGHA
   date: '2019-02-07'
+  start_time: '19:30'
   label: Shield
   our_score: 0
   opp_score: 0

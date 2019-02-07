@@ -27,9 +27,9 @@ matches:
   opp_score: 5.5
 - away: SYDEN
   date: '2018-11-22'
-  newdate: '2018-02-07'
-  our_score: 0
-  opp_score: 0
+  newdate: '2019-02-07'
+  our_score: 1
+  opp_score: 6
 - away: CLIFT
   date: '2018-11-28'
   our_score: 0

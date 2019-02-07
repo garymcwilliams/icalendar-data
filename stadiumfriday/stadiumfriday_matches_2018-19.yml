@@ -28,7 +28,8 @@ matches:
   opp_score: 0
 - home: NEILL
   date: '2018-11-02'
-  newdate:
+  newdate: '2019-02-08'
+  start_time: '20:30'
   our_score: 0
   opp_score: 0
 - home: HORNE
@@ -76,7 +77,8 @@ matches:
   opp_score: 10
 - home: NEILL
   date: '2019-01-18'
-  newdate:
+  newdate: '2019-02-08'
+  start_time: '19:00'
   our_score: 0
   opp_score: 0
 - home: HORNE

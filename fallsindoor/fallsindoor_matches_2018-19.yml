@@ -74,12 +74,12 @@ matches:
 - home: STMIC
   date: '2019-02-14'
   start_time: '19:00'
-  our_score: 0
-  opp_score: 0
+  our_score: 7
+  opp_score: 4
 - away: HANNA
   date: '2019-02-19'
-  our_score: 0
-  opp_score: 0
+  our_score: 3
+  opp_score: 8
 - home: WOODB
   date: '2019-03-14'
   our_score: 0

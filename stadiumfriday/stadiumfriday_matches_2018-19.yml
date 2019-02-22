@@ -34,7 +34,7 @@ matches:
   opp_score: 0
 - home: HORNE
   date: '2018-11-09'
-  newdate:
+  newdate: '2019-03-04'
   our_score: 0
   opp_score: 0
 - home: TINSL
@@ -83,6 +83,7 @@ matches:
   opp_score: 0
 - home: HORNE
   date: '2019-01-25'
+  newdate: '2019-03-04'
   our_score: 0
   opp_score: 0
 - home: TINSL

@@ -25,18 +25,18 @@ matches:
   date: '2018-10-26'
   newdate: 
   our_score: 0
-  opp_score: 0
+  opp_score: 1
 - home: NEILL
   date: '2018-11-02'
   newdate: '2019-02-08'
   start_time: '20:30'
-  our_score: 0
-  opp_score: 0
+  our_score: 8
+  opp_score: 13
 - home: HORNE
   date: '2018-11-09'
   newdate: '2019-03-04'
   our_score: 0
-  opp_score: 0
+  opp_score: 1
 - home: TINSL
   date: '2018-11-16'
   our_score: 8
@@ -79,29 +79,29 @@ matches:
   date: '2019-01-18'
   newdate: '2019-02-08'
   start_time: '19:00'
-  our_score: 0
-  opp_score: 0
+  our_score: 6
+  opp_score: 14
 - home: HORNE
   date: '2019-01-25'
   newdate: '2019-03-04'
-  our_score: 0
-  opp_score: 0
+  our_score: 15
+  opp_score: 10
 - home: TINSL
   date: '2019-02-01'
-  our_score: 0
-  opp_score: 0
+  our_score: 10
+  opp_score: 10
 - home: MOREL
   date: '2019-02-15'
-  our_score: 0
-  opp_score: 0
+  our_score: 18
+  opp_score: 10
 - home: HANNA
   date: '2019-02-22'
-  our_score: 0
-  opp_score: 0
+  our_score: 17
+  opp_score: 10
 - home: IRWIN
   date: '2019-03-01'
-  our_score: 0
-  opp_score: 0
+  our_score: 6
+  opp_score: 13
 - home: MARTI
   date: '2019-03-08'
   our_score: 0

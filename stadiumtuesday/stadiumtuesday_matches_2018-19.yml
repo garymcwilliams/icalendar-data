@@ -46,7 +46,7 @@ matches:
   opp_score: 14
 - home: REID
   date: '2018-12-04'
-  new_date:
+  newdate:
   our_score: 0
   opp_score: 0
 - home: THOMP

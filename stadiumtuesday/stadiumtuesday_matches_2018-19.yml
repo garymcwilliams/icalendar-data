@@ -71,24 +71,24 @@ matches:
   opp_score: 15
 - home: DUFFI
   date: '2019-01-29'
-  our_score: 0
-  opp_score: 0
+  our_score: 7
+  opp_score: 16
 - home: MCBRI
   date: '2019-02-05'
-  our_score: 0
-  opp_score: 0
+  our_score: 12
+  opp_score: 14
 - home: FISHE
   date: '2019-02-12'
-  our_score: 0
-  opp_score: 0
+  our_score: 15
+  opp_score: 6
 - home: PORTE
   date: '2019-02-19'
-  our_score: 0
-  opp_score: 0
+  our_score: 13
+  opp_score: 15
 - home: OROUR
   date: '2019-02-26'
-  our_score: 0
-  opp_score: 0
+  our_score: 12
+  opp_score: 9
 - home: MCINT
   date: '2019-03-05'
   our_score: 0

@@ -23,7 +23,6 @@ matches:
   opp_score: 20
 - home: TROLA
   date: '2018-10-26'
-  newdate: 
   our_score: 0
   opp_score: 1
 - home: NEILL
@@ -34,7 +33,6 @@ matches:
   opp_score: 13
 - home: HORNE
   date: '2018-11-09'
-  newdate: '2019-03-04'
   our_score: 0
   opp_score: 1
 - home: TINSL

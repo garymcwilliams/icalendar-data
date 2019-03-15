@@ -91,12 +91,12 @@ matches:
   opp_score: 9
 - home: MCINT
   date: '2019-03-05'
-  our_score: 0
-  opp_score: 0
+  our_score: 8
+  opp_score: 7
 - home: HENDE
   date: '2019-03-12'
-  our_score: 0
-  opp_score: 0
+  our_score: 15
+  opp_score: 8
 - home: REID
   date: '2019-03-19'
   our_score: 0

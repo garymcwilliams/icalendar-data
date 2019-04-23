@@ -27,9 +27,9 @@ teams:
   MALON: 
     name: Malone
     location: 240 Upper Malone Rd Dunmurry Belfast BT17 9GA
-  MOSSL: 
-    name: Nossley
-    location: TBD
+  MOSSL:
+    name: Mossley
+    location: 54.691641, -5.950702
   NBELF: 
     name: North Belfast
     location: TBD
@@ -41,7 +41,7 @@ teams:
     location: TBD
   SHAFT: 
     name: Shaftesbury
-    location: TBD
+    location: 20 Annadale Ave, Belfast, BT7 3JH
   SHORT: 
     name: Shorts
     location: 411-403 Holywood Rd Belfast BT4 2LP

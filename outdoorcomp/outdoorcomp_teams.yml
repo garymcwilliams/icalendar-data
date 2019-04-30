@@ -2,6 +2,9 @@ me: GARY
 start_time: '20:00'
 teams:
   GARY:
+    name: Gary
     location: Falls Bowling & Tennis Club, 63 Andersonstown Rd, Belfast, Belfast BT11
       9AH, United Kingdom
-    name: Gary
+  NICS:
+    name: NICS
+    location: The Pavilion Stormont Estate, Belfast BT4 3TA

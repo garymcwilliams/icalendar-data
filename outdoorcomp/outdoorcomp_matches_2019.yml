@@ -24,11 +24,11 @@ matches:
   label: Fours
   our_score: 24
   opp_score: 4
-- away: NICS
+- home: Larne
   date: '2019-05-07'
-  label: Senior Fours (A Montgomery)
+  label: Senior Fours (L King)
   our_score: 0
-  opp_score: 0
+  opp_score: 1
 - home: K O'Neill
   date: '2019-05-27'
   label: PG Singles

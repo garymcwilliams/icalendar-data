@@ -2,16 +2,16 @@ duration: 3
 matches:
 - away: SALIS
   date: '2019-05-01'
-  our_score: 0
-  opp_score: 0
+  our_score: 6
+  opp_score: 1
 - home: ARDS
   date: '2019-05-08'
-  our_score: 0
-  opp_score: 0
+  our_score: 6
+  opp_score: 1
 - away: EWART
   date: '2019-05-15'
-  our_score: 0
-  opp_score: 0
+  our_score: 5
+  opp_score: 2
 - home: LARNE
   date: '2019-05-22'
   our_score: 0

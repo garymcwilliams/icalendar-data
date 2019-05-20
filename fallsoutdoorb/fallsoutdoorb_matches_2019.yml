@@ -16,8 +16,15 @@ matches:
   date: '2019-05-11'
   our_score: 3
   opp_score: 4
+- home: LARNB
+  label: Irish Junior Cup
+  date: '2019-05-18'
+  our_score: 62
+  opp_score: 83
 - home: NBELF
   date: '2019-05-18'
+  newdate: '2019-05-21'
+  start_time: '18:30'
   our_score: 0
   opp_score: 0
 - away: BELMC

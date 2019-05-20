@@ -24,6 +24,9 @@ teams:
   EWARB: 
     name: Ewarts B
     location: 15 Somerdale Park Belfast BT14 7HD
+  LARNB:
+    name: Larne B
+    location: 112 Glenarm Rd Larne BT40 1DZ
   MALON: 
     name: Malone
     location: 240 Upper Malone Rd Dunmurry Belfast BT17 9GA

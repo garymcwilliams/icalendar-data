@@ -20,6 +20,11 @@ matches:
   date: '2019-05-29'
   our_score: 0
   opp_score: 0
+- home: CLIFT
+  label: Midweek Cup
+  date: '2019-05-30'
+  our_score: 0
+  opp_score: 0
 - home: MOSSL
   date: '2019-06-05'
   our_score: 0

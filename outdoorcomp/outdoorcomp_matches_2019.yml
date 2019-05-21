@@ -29,6 +29,11 @@ matches:
   label: Senior Fours (L King)
   our_score: 0
   opp_score: 1
+- home: M Gannon
+  date: '2019-05-23'
+  label: Junior Singles
+  our_score: 0
+  opp_score: 0
 - home: K O'Neill
   date: '2019-05-27'
   label: PG Singles

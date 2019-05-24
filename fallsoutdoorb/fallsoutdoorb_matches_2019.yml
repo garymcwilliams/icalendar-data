@@ -47,6 +47,7 @@ matches:
   opp_score: 0
 - home: PSNI
   date: '2019-06-15'
+  location: BELMC
   our_score: 0
   opp_score: 0
 - away: BELMC

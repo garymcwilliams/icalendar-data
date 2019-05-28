@@ -20,8 +20,8 @@ matches:
   opp_score: 6
 - home: EWARA
   date: '2019-05-25'
-  our_score: 0
-  opp_score: 0
+  our_score: 5.5
+  opp_score: 1.5
 - away: BALLA
   date: '2019-06-04'
   start_time: '18:30'

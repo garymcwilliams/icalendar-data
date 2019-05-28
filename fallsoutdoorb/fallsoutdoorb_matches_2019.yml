@@ -35,8 +35,8 @@ matches:
   opp_score: 0
 - away: BALLC
   date: '2019-05-25'
-  our_score: 0
-  opp_score: 0
+  our_score: 2
+  opp_score: 5
 - home: SHORT
   date: '2019-06-01'
   our_score: 0

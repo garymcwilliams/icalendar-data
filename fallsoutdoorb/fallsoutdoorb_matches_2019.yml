@@ -39,10 +39,12 @@ matches:
   opp_score: 5
 - home: SHORT
   date: '2019-06-01'
-  our_score: 0
+  our_score: 7
   opp_score: 0
 - away: MOSSL
   date: '2019-06-08'
+  newdate: '2019-06-11'
+  start_time: 18:30
   our_score: 0
   opp_score: 0
 - home: PSNI

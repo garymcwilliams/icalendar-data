@@ -24,6 +24,7 @@ matches:
   opp_score: 1.5
 - away: BALLA
   date: '2019-06-04'
+  newdate: 
   start_time: '18:30'
   our_score: 0
   opp_score: 0
@@ -31,8 +32,8 @@ matches:
   label: Senior Cup
   date: '2019-06-06'
   start_time: '18:30'
-  our_score: 0
-  opp_score: 0
+  our_score: 93
+  opp_score: 62
 - away: OLDBL
   label: Irish Senior Cup
   date: '2019-06-08'
@@ -46,6 +47,12 @@ matches:
   opp_score: 0
 - away: LARNA
   date: '2019-06-15'
+  our_score: 0
+  opp_score: 0
+- away: PICKA
+  label: Senior Cup
+  date: '2019-06-20'
+  start_time: '18:30'
   our_score: 0
   opp_score: 0
 - home: BELMA

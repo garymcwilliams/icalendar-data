@@ -25,13 +25,13 @@ matches:
   date: '2019-05-18'
   newdate: '2019-05-21'
   start_time: '18:30'
-  our_score: 0
+  our_score: 7
   opp_score: 0
 - away: BELMC
   label: Junior Cup
   date: '2019-05-23'
   start_time: '18:30'
-  our_score: 0
+  our_score: 1
   opp_score: 0
 - away: BALLC
   date: '2019-05-25'
@@ -45,6 +45,12 @@ matches:
   date: '2019-06-08'
   newdate: '2019-06-11'
   start_time: 18:30
+  our_score: 0
+  opp_score: 0
+- away: EWARB
+  label: Junior Cup
+  date: '2019-06-13'
+  start_time: '18:30'
   our_score: 0
   opp_score: 0
 - home: PSNI

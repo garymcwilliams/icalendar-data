@@ -18,17 +18,17 @@ matches:
   opp_score: 1
 - away: CLIFT
   date: '2019-05-29'
-  our_score: 0
-  opp_score: 0
+  our_score: 1
+  opp_score: 6
 - home: LARNE
   label: Midweek Cup
   date: '2019-05-30'
   our_score: 0
-  opp_score: 0
+  opp_score: 1
 - home: MOSSL
   date: '2019-06-05'
-  our_score: 0
-  opp_score: 0
+  our_score: 1
+  opp_score: 6
 - away: PICKA
   date: '2019-06-12'
   our_score: 0

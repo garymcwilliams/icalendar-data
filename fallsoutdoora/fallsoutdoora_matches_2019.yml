@@ -44,11 +44,11 @@ matches:
   newdate: '2019-06-11'
   start_time: '18:30'
   our_score: 0
-  opp_score: 0
+  opp_score: 7
 - away: LARNA
   date: '2019-06-15'
-  our_score: 0
-  opp_score: 0
+  our_score: 1
+  opp_score: 6
 - away: PICKA
   label: Senior Cup
   date: '2019-06-20'
@@ -57,6 +57,7 @@ matches:
   opp_score: 0
 - home: BELMA
   date: '2019-06-22'
+  newdate: '2019-06-25'
   our_score: 0
   opp_score: 0
 - home: BALLB

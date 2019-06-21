@@ -59,8 +59,9 @@ matches:
   our_score: 7
   opp_score: 0
 - away: BELMC
-  date: '2019-06-22'
-  newdate: '2019-06-25'
+  date: 2019-06-22
+  newdate: 2019-06-25
+  start_time: 18:30
   our_score: 0
   opp_score: 0
 - away: ARDSB

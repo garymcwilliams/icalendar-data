@@ -35,8 +35,8 @@ matches:
   opp_score: 0
 - home: DUNBA
   date: '2019-06-19'
-  our_score: 0
-  opp_score: 0
+  our_score: 5
+  opp_score: 2
 - away: BELMA
   date: '2019-06-26'
   our_score: 0

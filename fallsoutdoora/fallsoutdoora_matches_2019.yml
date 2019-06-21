@@ -24,8 +24,8 @@ matches:
   opp_score: 1.5
 - away: BALLA
   date: '2019-06-04'
-  newdate: 
-  start_time: '18:30'
+  newdate: '2019-07-09'
+  start_time: '19:00'
   our_score: 0
   opp_score: 0
 - home: HILDA

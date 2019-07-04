@@ -60,11 +60,11 @@ matches:
   newdate: 2019-06-25
   start_time: 18:30
   our_score: 0
-  opp_score: 0
+  opp_score: 7
 - home: BALLB
   date: '2019-06-29'
-  our_score: 0
-  opp_score: 0
+  our_score: 5
+  opp_score: 2
 - away: DUNBA
   date: '2019-07-06'
   our_score: 0

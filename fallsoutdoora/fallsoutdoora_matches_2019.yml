@@ -26,8 +26,8 @@ matches:
   date: '2019-06-04'
   newdate: '2019-07-09'
   start_time: '19:00'
-  our_score: 0
-  opp_score: 0
+  our_score: 1
+  opp_score: 6
 - home: HILDA
   label: Senior Cup
   date: '2019-06-06'
@@ -67,14 +67,15 @@ matches:
   opp_score: 2
 - away: DUNBA
   date: '2019-07-06'
-  our_score: 0
-  opp_score: 0
+  our_score: 1
+  opp_score: 6
 - home: SALIS
   date: '2019-07-20'
   our_score: 0
   opp_score: 0
 - home: OLDBL
   date: '2019-07-27'
+  newdate: 
   our_score: 0
   opp_score: 0
 - away: EWARA

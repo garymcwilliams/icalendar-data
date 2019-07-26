@@ -70,12 +70,12 @@ matches:
   opp_score: 2
 - home: AFOUN
   date: '2019-07-06'
-  our_score: 0
+  our_score: 7
   opp_score: 0
 - away: SHAFT
   date: '2019-07-20'
   our_score: 0
-  opp_score: 0
+  opp_score: 7
 - away: NBELF
   date: '2019-07-27'
   our_score: 0

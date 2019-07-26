@@ -47,8 +47,8 @@ matches:
   opp_score: 0
 - away: UTRAN
   date: '2019-07-24'
-  our_score: 0
-  opp_score: 0
+  our_score: 5
+  opp_score: 2
 - away: KNOCK
   date: '2019-07-31'
   our_score: 0

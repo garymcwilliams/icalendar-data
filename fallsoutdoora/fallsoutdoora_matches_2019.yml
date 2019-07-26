@@ -71,8 +71,8 @@ matches:
   opp_score: 6
 - home: SALIS
   date: '2019-07-20'
-  our_score: 0
-  opp_score: 0
+  our_score: 2
+  opp_score: 5
 - home: OLDBL
   date: '2019-07-27'
   newdate: 

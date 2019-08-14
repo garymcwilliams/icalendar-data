@@ -75,11 +75,12 @@ matches:
   opp_score: 5
 - home: OLDBL
   date: '2019-07-27'
-  newdate: 
+  newdate: '2019-08-22'
   our_score: 0
   opp_score: 0
 - away: EWARA
   date: '2019-08-10'
+  newdate: '2019-08-18'
   our_score: 0
   opp_score: 0
 - home: BALLA

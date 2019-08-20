@@ -82,12 +82,12 @@ matches:
 - away: EWARA
   date: '2019-08-10'
   newdate: '2019-08-18'
-  our_score: 0
-  opp_score: 0
+  our_score: 3
+  opp_score: 4
 - home: BALLA
   date: '2019-08-17'
-  our_score: 0
-  opp_score: 0
+  our_score: 2
+  opp_score: 5
 - away: PICKA
   date: '2019-08-24'
   our_score: 0
@@ -98,5 +98,6 @@ matches:
   opp_score: 0
 - away: BELMA
   date: '2019-09-07'
+  newdate:
   our_score: 0
   opp_score: 0

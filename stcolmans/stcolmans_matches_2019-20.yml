@@ -23,6 +23,7 @@ matches:
   opp_score: 0
 - home: DERRI
   date: '2019-11-21'
+  newdate: '2020-02-20'
   our_score: 0
   opp_score: 0
 - away: SUFFO
@@ -47,6 +48,7 @@ matches:
   opp_score: 0
 - away: DERRI
   date: '2020-02-19'
+  newdate: '2019-11-20'
   our_score: 0
   opp_score: 0
 - home: SUFFO

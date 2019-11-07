@@ -17,6 +17,13 @@ teams:
     location: F8G6+3M Balloo, Newtownards
     name: Mid Down
     start_time: '14:00'
+  NWEST:
+    location: TBD
+    name: North West
+    start_time: '14:00'
+  PRIES:
+    location: 78 Kesh Rd, Lisburn, BT27 5RR
+    name: Priesthill
   TOUR:
     name: Short Mat Tour
     location: Belfast Indoor Bowls Club, 115 Milltown Rd, Belfast BT8 7XP, UK

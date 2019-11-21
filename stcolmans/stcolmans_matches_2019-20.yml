@@ -2,28 +2,33 @@ duration: 3
 matches:
 - home: STMAR
   date: '2019-10-10'
-  our_score: 0
+  our_score: 7
   opp_score: 0
 - home: STCLA
   date: '2019-10-17'
-  our_score: 0
-  opp_score: 0
+  our_score: 6
+  opp_score: 1
 - away: SLOAN
   date: '2019-10-24'
   label: Charity Cup
   our_score: 0
-  opp_score: 0
+  opp_score: 1
 - away: BROOM
   date: '2019-10-28'
-  our_score: 0
+  our_score: 7
   opp_score: 0
 - away: ROCK
   date: '2019-11-04'
-  our_score: 0
+  our_score: 7
   opp_score: 0
 - home: DERRI
   date: '2019-11-21'
   newdate: '2020-02-20'
+  our_score: 6
+  opp_score: 1
+- away: HILLP
+  date: '2019-11-27'
+  label: Charity Shield
   our_score: 0
   opp_score: 0
 - away: SUFFO

@@ -24,6 +24,9 @@ teams:
   HILDE:
     location: GX88+VR Lisburn
     name: Hilden
+  HILLP:
+    location: 49 Lisburn St, Hillsborough BT26 6AA
+    name: Hillsborough Presbyterian
   KILLA:
     location: 52 Church Rd, Lisburn, BT27 6TT
     name: Killaney

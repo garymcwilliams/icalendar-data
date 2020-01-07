@@ -32,6 +32,10 @@ teams:
     location: Holm Park, Lurgan Road, Dromore
     name: West Down
     start_time: '14:00'
+  WDOWNL:
+    location: 80 Ballynanny Rd, Banbridge BT32 4LB
+    name: West Down Ladies
+    start_time: '13:30'
   ZONE:
     location: Magheragall Presbyterian Church, 8 School Ln, Upper Ballinderry, Lisburn,
       BT28 2NT

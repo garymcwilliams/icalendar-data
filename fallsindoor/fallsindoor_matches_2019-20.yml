@@ -60,6 +60,7 @@ matches:
 - home: HOLYC
   label: 'Devine Cup'
   date: '2020-01-16'
+  newdate: '2020-01-14'
   our_score: 0
   opp_score: 0
 - home: HANNA
@@ -70,8 +71,13 @@ matches:
   date: '2020-02-09'
   our_score: 0
   opp_score: 0
+- home: Sean Mullan
+  label: Singles
+  date: '2020-02-18'
+  our_score: 0
+  opp_score: 0
 - home: FALLB
-  date: '2020-02-16'
+  date: '2020-02-20'
   our_score: 0
   opp_score: 0
 - home: RIVER

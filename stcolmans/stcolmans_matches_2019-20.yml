@@ -24,23 +24,33 @@ matches:
 - home: DERRI
   date: '2019-11-21'
   newdate: '2020-02-20'
-  our_score: 6
-  opp_score: 1
+  our_score: 0
+  opp_score: 0
 - away: HILLP
   date: '2019-11-27'
   label: Charity Shield
-  our_score: 0
+  our_score: 1
   opp_score: 0
 - away: SUFFO
   date: '2019-12-12'
-  our_score: 0
-  opp_score: 0
+  our_score: 6
+  opp_score: 1
 - away: STMAR
   date: '2020-01-09'
   our_score: 0
   opp_score: 0
 - away: STCLA
   date: '2020-01-15'
+  our_score: 0
+  opp_score: 0
+- away: HILDE
+  label: Zone Mixed Pairs
+  date: '2020-01-20'
+  our_score: 0
+  opp_score: 0
+- away: AGHAG
+  label: Zone Singles
+  date: '2020-01-23'
   our_score: 0
   opp_score: 0
 - home: BROOM
@@ -54,8 +64,8 @@ matches:
 - away: DERRI
   date: '2020-02-19'
   newdate: '2019-11-20'
-  our_score: 0
-  opp_score: 0
+  our_score: 6
+  opp_score: 1
 - home: SUFFO
   date: '2020-03-12'
   our_score: 0

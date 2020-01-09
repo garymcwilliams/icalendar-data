@@ -43,6 +43,7 @@ matches:
   opp_score: 0
 - home: STPAU
   date: '2019-11-28'
+  newdate: '2020-01-21'
   our_score: 0
   opp_score: 0
 - away: HOLYC
@@ -65,6 +66,7 @@ matches:
   opp_score: 0
 - home: HANNA
   date: '2020-01-30'
+  newdate: '2020-01-28'
   our_score: 0
   opp_score: 0
 - away: STANN

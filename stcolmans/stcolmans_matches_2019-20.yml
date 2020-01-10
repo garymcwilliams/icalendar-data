@@ -37,8 +37,8 @@ matches:
   opp_score: 1
 - away: STMAR
   date: '2020-01-09'
-  our_score: 0
-  opp_score: 0
+  our_score: 5
+  opp_score: 2
 - away: STCLA
   date: '2020-01-15'
   our_score: 0
@@ -51,6 +51,11 @@ matches:
 - away: AGHAG
   label: Zone Singles
   date: '2020-01-23'
+  our_score: 0
+  opp_score: 0
+- home: STMAR
+  date: '2020-01-27'
+  label: Charity Shield
   our_score: 0
   opp_score: 0
 - home: BROOM

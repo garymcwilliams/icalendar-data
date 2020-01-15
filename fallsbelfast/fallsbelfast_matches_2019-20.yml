@@ -36,6 +36,7 @@ matches:
   opp_score: 7
 - away: AFM
   date: '2020-01-15'
+  newdate: 
   our_score: 0
   opp_score: 0
 - away: CARAV

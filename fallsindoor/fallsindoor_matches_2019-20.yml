@@ -62,7 +62,7 @@ matches:
   label: 'Devine Cup'
   date: '2020-01-16'
   newdate: '2020-01-27'
-  our_score: 0
+  our_score: 1
   opp_score: 0
 - home: HANNA
   date: '2020-01-30'

@@ -1,0 +1,16 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "generate",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal",
+            "env": {
+                "ICAL_TEAM":"fallsmidweeka",
+                "ICAL_YEAR":"2021"
+            }
+        }
+    ]
+}

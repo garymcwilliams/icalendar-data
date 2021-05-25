@@ -36,7 +36,8 @@ for line in file:
 
 savefile = f"{team}/{filename}.yml"
 print(f"Saving {savefile}")
-with open(f"{savefile}", 'a') as f:
+with open(f"{savefile}", 'w') as f:
+    f.write(f"duration: 3\n")
+    f.write(f"matches:\n")
     for item in matchdata:
         f.write(f"{item}\n")
-

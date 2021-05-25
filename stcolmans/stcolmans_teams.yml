@@ -15,12 +15,18 @@ teams:
   BROOM:
     location: St Mathews Church Hall, Lurganure Road, Lisburn BT28 2TST
     name: Broomhedge
+  DERRI:
+    location: TBD
+    name: Derriaghy
   EGLAN:
     location: All Saints' Parish, Eglantine, Eglantine Road, Lisburn BT27 5RQ
     name: Eglantine
   HILDE:
     location: GX88+VR Lisburn
     name: Hilden
+  HILLP:
+    location: 49 Lisburn St, Hillsborough BT26 6AA
+    name: Hillsborough Presbyterian
   KILLA:
     location: 52 Church Rd, Lisburn, BT27 6TT
     name: Killaney
@@ -65,6 +71,7 @@ teams:
   SUFFO:
     location: Musgrave Park, 7JB, Stockmans Ln, Belfast BT9, UK
     name: Suffolk
+    start_time: '19:30'
   ZONE:
     location: Magheragall Presbyterian Church, 8 School Ln, Upper Ballinderry, Lisburn,
       BT28 2NT

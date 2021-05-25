@@ -26,6 +26,9 @@ teams:
   SALIS:
     location: 47 Beechmount Avenue, Belfast BT12, UK
     name: Salisbury
+  STBRI:
+    location: unknown
+    name: St Brigids
   SYDEN:
     location: unknown
     name: Sydenham

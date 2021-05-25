@@ -1,4 +1,4 @@
-FROM garymcwilliams/icalendar-app
+FROM garymcwilliams/ggbowlscalendar-app
 
 LABEL maintainer gary@mc-williams.co.uk
 

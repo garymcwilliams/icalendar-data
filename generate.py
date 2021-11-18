@@ -25,13 +25,13 @@ for line in file:
     elif idx == 1:
         filename = line.rstrip()
     else:
-        where,opp,delta = line.split(" ")
+        where,opp,delta = line.rstrip().split(" ")
         curdate = curdate + timedelta(days=int(delta))
 #        print(f"{where},{opp},{curdate}")
-        matchdata.append(f"-  {where}: {opp}")
-        matchdata.append(f"   date: '{curdate}'")
-        matchdata.append(f"   our_score: 0")
-        matchdata.append(f"   opp_score: 0")
+        matchdata.append(f"- {where}: {opp}")
+        matchdata.append(f"  date: '{curdate}'")
+        matchdata.append(f"  our_score: 0")
+        matchdata.append(f"  opp_score: 0")
     idx += 1
 
 savefile = f"{team}/{filename}.yml"

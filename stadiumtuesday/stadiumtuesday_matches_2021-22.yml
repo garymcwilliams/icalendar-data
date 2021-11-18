@@ -20,7 +20,7 @@ matches:
   date: '2021-10-12'
   our_score: 13
   opp_score: 11
-- home: ORORK
+- home: OROUR
   date: '2021-10-19'
   our_score: 11
   opp_score: 9
@@ -31,6 +31,7 @@ matches:
 - home: DOWNY
   date: '2021-11-02'
   newdate: '2021-11-22'
+  label: 'Rink 10'
   our_score: 0
   opp_score: 0
 - home: MCINT
@@ -49,7 +50,7 @@ matches:
   date: '2021-11-30'
   our_score: 0
   opp_score: 0
-- home: ORORK
+- home: OROUR
   date: '2021-12-07'
   our_score: 0
   opp_score: 0
@@ -77,7 +78,7 @@ matches:
   date: '2022-01-25'
   our_score: 0
   opp_score: 0
-- home: ORORK
+- home: OROUR
   date: '2022-02-01'
   our_score: 0
   opp_score: 0
@@ -105,7 +106,7 @@ matches:
   date: '2022-03-22'
   our_score: 0
   opp_score: 0
-- home: ORORK
+- home: OROUR
   date: '2022-03-29'
   our_score: 0
   opp_score: 0

@@ -30,15 +30,16 @@ matches:
   opp_score: 0
 - home: DOWNY
   date: '2021-11-02'
+  newdate: '2021-11-22'
   our_score: 0
   opp_score: 0
 - home: MCINT
   date: '2021-11-09'
-  our_score: 0
-  opp_score: 0
+  our_score: 9
+  opp_score: 15
 - home: WATTR
   date: '2021-11-16'
-  our_score: 9
+  our_score: 6
   opp_score: 15
 - home: LEDGE
   date: '2021-11-23'

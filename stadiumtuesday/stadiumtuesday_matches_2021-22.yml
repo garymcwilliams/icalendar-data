@@ -44,69 +44,86 @@ matches:
   opp_score: 15
 - home: LEDGE
   date: '2021-11-23'
+  label: 'Rink 13'
   our_score: 0
   opp_score: 0
 - home: PORTE
   date: '2021-11-30'
+  label: 'Rink 7'
   our_score: 0
   opp_score: 0
 - home: OROUR
   date: '2021-12-07'
+  label: 'Rink 12'
   our_score: 0
   opp_score: 0
 - home: MCBRI
   date: '2021-12-14'
+  label: 'Rink 2'
   our_score: 0
   opp_score: 0
 - home: DOWNY
   date: '2021-12-21'
+  label: 'Rink 11'
   our_score: 0
   opp_score: 0
 - home: MCINT
   date: '2022-01-04'
+  label: 'Rink 7'
   our_score: 0
   opp_score: 0
 - home: WATTR
   date: '2022-01-11'
+  label: 'Rink 12'
   our_score: 0
   opp_score: 0
 - home: LEDGE
   date: '2022-01-18'
+  label: 'Rink 5'
   our_score: 0
   opp_score: 0
 - home: PORTE
   date: '2022-01-25'
+  label: 'Rink 13'
   our_score: 0
   opp_score: 0
 - home: OROUR
   date: '2022-02-01'
+  label: 'Rink 3'
   our_score: 0
   opp_score: 0
 - home: MCBRI
   date: '2022-02-08'
+  label: 'Rink 11'
   our_score: 0
   opp_score: 0
 - home: DOWNY
   date: '2022-02-15'
+  label: 'Rink 2'
   our_score: 0
   opp_score: 0
 - home: MCINT
   date: '2022-02-22'
+  label: 'Rink 7'
   our_score: 0
   opp_score: 0
 - home: WATTR
   date: '2022-03-01'
+  label: 'Rink 5'
   our_score: 0
   opp_score: 0
 - home: LEDGE
   date: '2022-03-08'
+  label: 'Rink 7'
   our_score: 0
   opp_score: 0
 - home: PORTE
   date: '2022-03-22'
+  label: 'Rink 2'
   our_score: 0
   opp_score: 0
 - home: OROUR
   date: '2022-03-29'
+  label: 'Rink 13'
   our_score: 0
   opp_score: 0

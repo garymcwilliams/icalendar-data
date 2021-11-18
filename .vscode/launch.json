@@ -5,10 +5,10 @@
             "name": "generate",
             "type": "python",
             "request": "launch",
-            "program": "${file}",
+            "program": "${workspaceFolder}/generate.py",
             "console": "integratedTerminal",
             "env": {
-                "ICAL_TEAM":"fallsmidweeka",
+                "ICAL_TEAM":"stadiumtuesday",
                 "ICAL_YEAR":"2021"
             }
         }

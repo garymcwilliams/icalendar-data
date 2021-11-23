@@ -32,8 +32,8 @@ matches:
   date: '2021-11-02'
   newdate: '2021-11-22'
   label: 'Rink 10'
-  our_score: 0
-  opp_score: 0
+  our_score: 15
+  opp_score: 10
 - home: MCINT
   date: '2021-11-09'
   our_score: 9

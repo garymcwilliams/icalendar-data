@@ -45,8 +45,8 @@ matches:
 - home: LEDGE
   date: '2021-11-23'
   label: 'Rink 13'
-  our_score: 0
-  opp_score: 0
+  our_score: 3
+  opp_score: 23
 - home: PORTE
   date: '2021-11-30'
   label: 'Rink 7'

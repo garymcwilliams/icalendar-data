@@ -33,6 +33,9 @@ teams:
   DUNBA:
     name: Dunbarton
     location: 54 Dunbarton St, Gilford, Craigavon BT63 6HJ
+  HILDE:
+    name: Hilden
+    location: GX88+VR Lisburn
   KNOCK:
     name: CI-Knock
     location: 91 Circular Rd, Belfast BT4 2GD

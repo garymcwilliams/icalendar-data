@@ -8,8 +8,8 @@
             "program": "${workspaceFolder}/generate.py",
             "console": "integratedTerminal",
             "env": {
-                "ICAL_TEAM":"stadiumtuesday",
-                "ICAL_YEAR":"2021"
+                "ICAL_TEAM":"fallsmidweeka",
+                "ICAL_YEAR":"2022"
             }
         }
     ]

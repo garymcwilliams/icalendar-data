@@ -12,18 +12,30 @@ teams:
   ARDSB: 
     name: Ards B
     location: 70 South St Newtownards BT23 4JU
-  BALLC: 
-    name: Ballymena C
+  BALLB: 
+    name: Ballymena B
     location: 10 Old Ballymoney Rd Ballymena BT43 6LX
   BELMC: 
     name: Belmont C
     location: 16 Belmont Park Belfast BT4 3DU
-  COMBE: 
+  COMBR:
     name: Comber
-    location: 5 Londonderry Ave Comber Newtownards BT23 5ES
+    location: 13 Londonderry Ave, Comber, Newtownards BT23 5ES
+  DOWNP:
+    name: Downpatrick
+    location: 87PM+C9Q Downpatrick
   EWARB: 
     name: Ewarts B
     location: 15 Somerdale Park Belfast BT14 7HD
+  FORTA:
+    name: Forthriver A
+    location: 104 Woodvale Road, Belfast, BT13 3BU, Northern Ireland
+  HILDA:
+    name: Hilden A
+    location: GX88+VR Lisburn
+  KNCKA:
+    name: CI-Knock A
+    location: 91 Circular Rd, Belfast BT4 2GD
   LARNB:
     name: Larne B
     location: 112 Glenarm Rd Larne BT40 1DZ
@@ -39,16 +51,22 @@ teams:
   OLDBL: 
     name: Old Bleach B
     location: 7 Neillsbrook Park Randalstown Antrim BT41 3AE
+  PICKB:
+    name: Pickie B
+    location: 17 Broadway, Bangor BT20 4TS
   PSNI: 
     name: PSNI
     location: TBD
+  SAINT: 
+    name: Saintfield
+    location: 49 Crossgar Rd, Saintfield, Ballynahinch BT24 7JE
   SHAFT: 
     name: Shaftesbury
     location: 20 Annadale Ave, Belfast, BT7 3JH
   SHORT: 
     name: Shorts
     location: 411-403 Holywood Rd Belfast BT4 2LP
-  UTRAN: 
-    name: U Transport
+  UTRNA: 
+    name: U Transport A
     location: 25 Lynda Ave Newtownabbey BT37 0NX
 

@@ -12,6 +12,11 @@ matches:
   date: '2022-05-18'
   our_score: 0
   opp_score: 0
+- away: PICKA
+  label: Midweek Cup
+  date: '2022-05-19'
+  our_score: 0
+  opp_score: 0
 - home: LARNE
   date: '2022-05-25'
   our_score: 0

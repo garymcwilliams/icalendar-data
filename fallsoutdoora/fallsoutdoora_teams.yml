@@ -12,14 +12,26 @@ teams:
   BELMA:
     name: Belmont A
     location: 16 Belmont Park Belfast BT4 3DU
+  BELMB:
+    name: Belmont B
+    location: 16 Belmont Park Belfast BT4 3DU
   BALLA:
     name: Ballymena A
     location: 10 Old Ballymoney Rd Ballymena BT43 6LX
   BALLB:
     name: Ballymena B
     location: 10 Old Ballymoney Rd Ballymena BT43 6LX
+  BALLW:
+    name: Ballywalter
+    location: 23 Knutsford Dr, Belfast BT14 6LZ
+  CLIFT:
+    name: Cliftonville
+    location: 23 Knutsford Dr, Belfast BT14 6LZ
   DUNBA:
-    name: Dunbarton
+    name: Dunbarton A
+    location: 54 Dunbarton St Gilford Craigavon BT63 6HJ
+  DUNBB:
+    name: Dunbarton B
     location: 54 Dunbarton St Gilford Craigavon BT63 6HJ
   EWARA:
     name: Ewarts A
@@ -30,8 +42,17 @@ teams:
   LARNA:
     name: Larne A
     location: 112 Glenarm Rd Larne BT40 1DZ
+  LARNB:
+    name: Larne B
+    location: 112 Glenarm Rd Larne BT40 1DZ
+  MOSSA:
+    name: Mossley A
+    location: 54.691641, -5.950702
   OLDBL:
     name: Old Bleach A
+    location: 7 Neillsbrook Park Randalstown Antrim BT41 3AE
+  OLDBB:
+    name: Old Bleach B
     location: 7 Neillsbrook Park Randalstown Antrim BT41 3AE
   PICKA:
     name: Pickie A
@@ -42,4 +63,7 @@ teams:
   UTRNA:
     name: U Transport A
     location: 25 Lynda Ave Newtownabbey BT37 0NX
+  WILLA:
+    name: Willowfield A
+    location: 20 Gibson Park Gardens, Belfast BT6 9GN
 

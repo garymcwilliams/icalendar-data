@@ -23,6 +23,7 @@ matches:
 - home: EWARB
   label: Junior Cup
   date: '2022-05-26'
+  start_time: '18:30'
   our_score: 0
   opp_score: 0
 - home: HILDA

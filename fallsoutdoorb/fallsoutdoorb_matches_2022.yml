@@ -2,8 +2,8 @@ duration: 3
 matches:
 - home: KNCKA
   date: '2022-04-23'
-  our_score: 0
-  opp_score: 0
+  our_score: 1
+  opp_score: 6
 - away: DOWNP
   date: '2022-04-30'
   our_score: 0

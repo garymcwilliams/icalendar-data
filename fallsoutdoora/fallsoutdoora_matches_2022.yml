@@ -27,6 +27,7 @@ matches:
 - away: UNKNOWN
   label: Senior Cup
   date: '2022-06-02'
+  start_time: '18:30'
   our_score: 0
   opp_score: 0
 - home: DUNBB

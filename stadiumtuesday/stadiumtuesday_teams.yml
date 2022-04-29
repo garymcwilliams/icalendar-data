@@ -1,10 +1,8 @@
 location: Belfast Indoor Bowls Club, 115 Milltown Rd, Belfast BT8 7XP, UK
-me: BRENN
-start_time: '19:15'
 teams:
   BRENN:
-    location: Belfast Indoor Bowls Club, 115 Milltown Rd, Belfast BT8 7XP, UK
     name: K Brennan
+    location: Belfast Indoor Bowls Club, 115 Milltown Rd, Belfast BT8 7XP, UK
   BELL:
     name: B Bell
   CAMPB:

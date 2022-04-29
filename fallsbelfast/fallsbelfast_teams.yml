@@ -1,5 +1,3 @@
-me: FALLS
-start_time: '19:30'
 teams:
   AFM:
     location: unknown
@@ -16,9 +14,8 @@ teams:
   EWART:
     location: 15 Somerdale Park, Belfast, BT14 7HD
     name: Ewarts
-  FALLS:
-    location: Falls Bowling & Tennis Club, 63 Andersonstown Rd, Belfast, Belfast BT11
-      9AH, United Kingdom
+  FALLSIA:
+    location: Falls Bowling & Tennis Club, 63 Andersonstown Rd, Belfast, Belfast BT11 9AH, United Kingdom
     name: Falls
   KINGH:
     location: unknown

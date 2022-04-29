@@ -2,7 +2,8 @@ me: FALLSB
 start_time: '14:00'
 duration: 3
 matches:
-- home: KNCKA
+- home: KNOCK
+  team: A
   date: '2022-04-23'
   our_score: 1
   opp_score: 6
@@ -10,11 +11,13 @@ matches:
   date: '2022-04-30'
   our_score: 0
   opp_score: 0
-- home: BALLB
+- home: BALLM
+  team: B
   date: '2022-05-07'
   our_score: 0
   opp_score: 0
-- away: FORTA
+- away: FORTH
+  team: A
   date: '2022-05-14'
   our_score: 0
   opp_score: 0
@@ -28,17 +31,20 @@ matches:
   start_time: '18:30'
   our_score: 0
   opp_score: 0
-- home: EWARB
+- home: EWART
+  team: B
   label: Junior Cup
   date: '2022-05-26'
   start_time: '18:30'
   our_score: 0
   opp_score: 0
-- home: HILDA
+- home: HILDE
+  team: A
   date: '2022-05-28'
   our_score: 0
   opp_score: 0
-- away: UTRNA
+- away: UTRAN
+  team: A
   date: '2022-06-04'
   our_score: 0
   opp_score: 0
@@ -46,11 +52,13 @@ matches:
   date: '2022-06-11'
   our_score: 0
   opp_score: 0
-- away: PICKB
+- away: PICKI
+  team: B
   date: '2022-06-18'
   our_score: 0
   opp_score: 0
-- away: KNCKA
+- away: KNOCK
+  team: A
   date: '2022-06-25'
   our_score: 0
   opp_score: 0
@@ -58,11 +66,13 @@ matches:
   date: '2022-07-02'
   our_score: 0
   opp_score: 0
-- away: BALLB
+- away: BALLM
+  team: B
   date: '2022-07-09'
   our_score: 0
   opp_score: 0
-- home: FORTA
+- home: FORTH
+  team: A
   date: '2022-07-23'
   our_score: 0
   opp_score: 0
@@ -70,11 +80,13 @@ matches:
   date: '2022-07-30'
   our_score: 0
   opp_score: 0
-- away: HILDA
+- away: HILDE
+  team: A
   date: '2022-08-06'
   our_score: 0
   opp_score: 0
-- home: UTRNA
+- home: UTRAN
+  team: A
   date: '2022-08-13'
   our_score: 0
   opp_score: 0
@@ -82,7 +94,8 @@ matches:
   date: '2022-08-27'
   our_score: 0
   opp_score: 0
-- home: PICKB
+- home: PICKI
+  team: B
   date: '2022-09-03'
   our_score: 0
   opp_score: 0

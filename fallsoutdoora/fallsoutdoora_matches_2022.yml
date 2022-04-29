@@ -2,15 +2,18 @@ me: FALLSA
 start_time: '14:00'
 duration: 3
 matches:
-- away: OLDBB
+- away: OLDBL
+  team: B
   date: '2022-04-23'
   our_score: 1
   opp_score: 6
-- home: BELMB
+- home: BELMO
+  team: B
   date: '2022-04-30'
   our_score: 0
   opp_score: 0
-- away: LARNB
+- away: LARNE
+  team: B
   date: '2022-05-07'
   our_score: 0
   opp_score: 0
@@ -22,7 +25,8 @@ matches:
   date: '2022-05-21'
   our_score: 0
   opp_score: 0
-- away: WILLA
+- away: WILLO
+  team: B
   date: '2022-05-28'
   our_score: 0
   opp_score: 0
@@ -37,28 +41,34 @@ matches:
   date: '2022-06-04'
   our_score: 0
   opp_score: 0
-- home: DUNBB
+- home: DUNBA
+  team: B
   date: '2022-06-07'
   start_time: '18:30'
   our_score: 0
   opp_score: 0
-- away: EWARA
+- away: EWART
+  team: A
   date: '2022-06-11'
   our_score: 0
   opp_score: 0
-- home: MOSSA
+- home: MOSSL
+  team: A
   date: '2022-06-18'
   our_score: 0
   opp_score: 0
-- home: OLDBB
+- home: OLDBL
+  team: B
   date: '2022-06-25'
   our_score: 0
   opp_score: 0
-- away: BELMB
+- away: BELMO
+  team: B
   date: '2022-07-02'
   our_score: 0
   opp_score: 0
-- home: LARNB
+- home: LARNE
+  team: B
   date: '2022-07-09'
   our_score: 0
   opp_score: 0
@@ -70,19 +80,23 @@ matches:
   date: '2022-07-30'
   our_score: 0
   opp_score: 0
-- home: WILLA
+- home: WILLO
+  team: A
   date: '2022-08-06'
   our_score: 0
   opp_score: 0
-- away: DUNBB
+- away: DUNBA
+  team: B
   date: '2022-08-13'
   our_score: 0
   opp_score: 0
-- home: EWARA
+- home: EWART
+  team: A
   date: '2022-08-27'
   our_score: 0
   opp_score: 0
-- away: MOSSA
+- away: MOSSL
+  team: A
   date: '2022-09-03'
   our_score: 0
   opp_score: 0

@@ -26,7 +26,8 @@ matches:
   date: '2022-06-22'
   our_score: 0
   opp_score: 0
-- home: BELMB
+- home: BELMO
+  team: B
   date: '2022-06-29'
   our_score: 0
   opp_score: 0

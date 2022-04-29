@@ -19,21 +19,9 @@ teams:
   AFOUN: 
     name: Albert Foundry
     location: TBD
-  ARDSA:
-    name: Ards A
-    location: 70 South St Newtownards BT23 4JU
-  ARDSB: 
-    name: Ards B
-    location: 70 South St Newtownards BT23 4JU
   ARDS:
     name: Ards
     location: 70 South St, Newtownards BT23 4JU
-  BALLA:
-    name: Ballymena A
-    location: 10 Old Ballymoney Rd Ballymena BT43 6LX
-  BALLB:
-    name: Ballymena B
-    location: 10 Old Ballymoney Rd Ballymena BT43 6LX
   BALLM:
     name: Ballymena
     location: 10 Old Ballymoney Rd Ballymena BT43 6LX
@@ -43,14 +31,8 @@ teams:
   BELFA:
     name: Belfast
     location: TBD
-  BELMA:
-    name: Belmont A
-    location: 16 Belmont Park Belfast BT4 3DU
-  BELMB:
-    name: Belmont B
-    location: 16 Belmont Park Belfast BT4 3DU
-  BELMC: 
-    name: Belmont C
+  BELMO:
+    name: Belmont
     location: 16 Belmont Park Belfast BT4 3DU
   CAVEH:
     name: Cavehill
@@ -65,44 +47,20 @@ teams:
     name: Downpatrick
     location: 87PM+C9Q Downpatrick
   DUNBA:
-    name: Dunbarton A
+    name: Dunbarton
     location: 54 Dunbarton St Gilford Craigavon BT63 6HJ
-  DUNBB:
-    name: Dunbarton B
-    location: 54 Dunbarton St Gilford Craigavon BT63 6HJ
-  EWARA:
-    name: Ewarts A
-    location: 15 Somerdale Park, Belfast, BT14 7HD
-  EWARB: 
-    name: Ewarts B
-    location: 15 Somerdale Park, Belfast, BT14 7HD
   EWART:
     name: Ewarts
     location: 15 Somerdale Park, Belfast, BT14 7HD
-  FORTA:
-    name: Forthriver A
-    location: 104 Woodvale Road, Belfast, BT13 3BU, Northern Ireland
   FORTH:
     name: Forthriver
     location: 104 Woodvale Road, Belfast, BT13 3BU, Northern Ireland
-  HILDA:
-    name: Hilden A
-    location: GX88+VR Lisburn
   HILDE:
     name: Hilden
     location: GX88+VR Lisburn
   KNOCK:
     name: CI-Knock
     location: 91 Circular Rd, Belfast BT4 2GD
-  KNCKA:
-    name: CI-Knock A
-    location: 91 Circular Rd, Belfast BT4 2GD
-  LARNA:
-    name: Larne A
-    location: 112 Glenarm Rd Larne BT40 1DZ
-  LARNB:
-    name: Larne B
-    location: 112 Glenarm Rd Larne BT40 1DZ
   LARNE:
     name: Larne
     location: 112 Glenarm Rd, Larne BT40 1DZ
@@ -112,12 +70,6 @@ teams:
   MALON: 
     name: Malone
     location: 240 Upper Malone Rd Dunmurry Belfast BT17 9GA
-  MOSSA:
-    name: Mossley A
-    location: 54.691641, -5.950702
-  MOSSB:
-    name: Mossley B
-    location: 54.691641, -5.950702
   MOSSL:
     name: Mossley
     location: 54.691641, -5.950702
@@ -128,19 +80,13 @@ teams:
     name: NICS
     location: The Pavilion Stormont Estate, Belfast BT4 3TA
   OLDBL:
-    name: Old Bleach A
-    location: 7 Neillsbrook Park Randalstown Antrim BT41 3AE
-  OLDBB:
-    name: Old Bleach B
+    name: Old Bleach
     location: 7 Neillsbrook Park Randalstown Antrim BT41 3AE
   OWENB:
     name: Owenbeg
     location: 38 Stream St, Downpatrick, Northern Ireland
-  PICKA:
-    name: Pickie A
-    location: 17 Broadway, Bangor BT20 4TS
-  PICKB:
-    name: Pickie B
+  PICKI:
+    name: Pickie
     location: 17 Broadway, Bangor BT20 4TS
   PORTS:
     name: Portstewart
@@ -163,18 +109,6 @@ teams:
   UTRAN:
     name: U Transport
     location: 25 Lynda Ave, Newtownabbey BT37 0NX
-  UTRNA:
-    name: U Transport A
-    location: 25 Lynda Ave Newtownabbey BT37 0NX
-  UTRNB: 
-    name: U Transport B
-    location: 25 Lynda Ave Newtownabbey BT37 0NX
-  WILLA:
-    name: Willowfield A
-    location: 20 Gibson Park Gardens, Belfast BT6 9GN
-  WILLB:
-    name: Willowfield B
-    location: 20 Gibson Park Gardens, Belfast BT6 9GN
   WILLO:
     name: Willowfield
     location: 20 Gibson Park Gardens, Belfast BT6 9GN

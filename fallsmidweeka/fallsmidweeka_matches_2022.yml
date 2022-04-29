@@ -14,7 +14,8 @@ matches:
   date: '2022-05-18'
   our_score: 0
   opp_score: 0
-- away: PICKA
+- away: PICKI
+  team: A
   label: Midweek Cup
   date: '2022-05-19'
   our_score: 0
@@ -31,15 +32,18 @@ matches:
   date: '2022-06-08'
   our_score: 0
   opp_score: 0
-- away: PICKA
+- away: PICKI
+  team: A
   date: '2022-06-15'
   our_score: 0
   opp_score: 0
 - home: DUNBA
+  team: A
   date: '2022-06-22'
   our_score: 0
   opp_score: 0
-- away: BELMA
+- away: BELMO
+  team: A
   date: '2022-06-29'
   our_score: 0
   opp_score: 0

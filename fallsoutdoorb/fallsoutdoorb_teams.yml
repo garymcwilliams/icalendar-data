@@ -54,6 +54,9 @@ teams:
   PICKB:
     name: Pickie B
     location: 17 Broadway, Bangor BT20 4TS
+  PORTS:
+    name: Portstewart
+    location: The Warren, Old Coach Rd, Portstewart BT55 7HF
   PSNI: 
     name: PSNI
     location: TBD

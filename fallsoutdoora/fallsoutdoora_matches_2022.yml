@@ -30,8 +30,14 @@ matches:
   start_time: '18:30'
   our_score: 0
   opp_score: 0
-- home: DUNBB
+- home: UNKNOWN
+  label: IBA Intermediate Cup
   date: '2022-06-04'
+  our_score: 0
+  opp_score: 0
+- home: DUNBB
+  date: '2022-06-07'
+  start_time: '18:30'
   our_score: 0
   opp_score: 0
 - away: EWARA

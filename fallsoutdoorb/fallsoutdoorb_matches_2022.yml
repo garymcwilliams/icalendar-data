@@ -16,8 +16,14 @@ matches:
   date: '2022-05-14'
   our_score: 0
   opp_score: 0
-- home: SAINT
+- home: Portstewart
+  label: IBA Junior Cup
   date: '2022-05-21'
+  our_score: 0
+  opp_score: 0
+- home: SAINT
+  date: '2022-05-24'
+  start_time: '18:30'
   our_score: 0
   opp_score: 0
 - home: EWARB

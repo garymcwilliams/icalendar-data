@@ -4,7 +4,7 @@ duration: 3
 matches:
 - away: HILDE
   date: '2022-05-04'
-  our_score: 0
+  our_score: 7
   opp_score: 0
 - home: ARDS
   date: '2022-05-11'
@@ -15,7 +15,6 @@ matches:
   our_score: 0
   opp_score: 0
 - away: PICKI
-  team: A
   label: Midweek Cup
   date: '2022-05-19'
   our_score: 0
@@ -33,12 +32,10 @@ matches:
   our_score: 0
   opp_score: 0
 - away: PICKI
-  team: A
   date: '2022-06-15'
   our_score: 0
   opp_score: 0
 - home: DUNBA
-  team: A
   date: '2022-06-22'
   our_score: 0
   opp_score: 0

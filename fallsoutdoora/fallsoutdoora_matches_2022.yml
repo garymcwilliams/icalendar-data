@@ -10,8 +10,8 @@ matches:
 - home: BELMO
   team: B
   date: '2022-04-30'
-  our_score: 0
-  opp_score: 0
+  our_score: 1
+  opp_score: 6
 - away: LARNE
   team: B
   date: '2022-05-07'
@@ -30,7 +30,7 @@ matches:
   date: '2022-05-28'
   our_score: 0
   opp_score: 0
-- away: UNKNOWN
+- away: CLIFT
   label: Senior Cup
   date: '2022-06-02'
   start_time: '18:30'

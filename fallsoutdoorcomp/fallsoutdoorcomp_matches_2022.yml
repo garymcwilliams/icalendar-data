@@ -1,0 +1,24 @@
+me: GARY
+start_time: '18:30'
+duration: 3
+matches:
+- home: Mullen (Downpatrick)
+  date: '2022-06-03'
+  label: NIPGL Junior Fours
+  our_score: 0
+  opp_score: 0
+- away: OLDBL
+  date: '2022-06-10'
+  label: NIPGL Triples R Kirkwood
+  our_score: 0
+  opp_score: 0
+- home: T Brown (UTBC)
+  date: '2022-06-14'
+  label: NIPGL Senior Fours
+  our_score: 0
+  opp_score: 0
+- away: UNKNOWN
+  date: '2022-06-27'
+  label: NIPGL Junior Pairs
+  our_score: 0
+  opp_score: 0

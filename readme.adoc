@@ -2,7 +2,7 @@
 
 The Data for the app has 2 requirements, defined as follows
 
-= Teams
+== Teams
 
 The teams format is:
 [source,yaml,indent=0]
@@ -29,7 +29,7 @@ each `team` entry then has the following values
 `location`:: Address in google maps for the team
 `start_time`:: If this team starts home matches at a time that is different the normal league start time, then add that. For home matches for this team this time will be used
 
-= Matches
+== Matches
 
 [source,yaml,indent=0]
 ----
@@ -53,3 +53,4 @@ There are additional optional entries available: +
 `label`:: An optional label for the match description, e.g. "Devine Cup" +
 `newdate`:: If a match date is changed, then add the new date. Keeping the original date means that the `ICS` unique key remains the same and the match is moved within the calendar rather than duplicated.
 - Additionally, if a match is to be re-arranged, but no date has been set then `newdate` can be left empty. In this case, the match will not be added to the calendar.
+`newtime`:: If a match time is changed, then add the new time.  NOTE that `newtime` will only be used if `newdate` is also used.

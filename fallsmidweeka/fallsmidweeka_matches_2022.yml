@@ -8,10 +8,11 @@ matches:
   opp_score: 0
 - home: ARDS
   date: '2022-05-11'
-  our_score: 0
-  opp_score: 0
+  our_score: 5
+  opp_score: 2
 - away: EWART
   date: '2022-05-18'
+  newdate: '2022-05-17'
   our_score: 0
   opp_score: 0
 - away: PICKI

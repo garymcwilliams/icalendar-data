@@ -6,6 +6,12 @@ matches:
   date: '2022-05-11'
   our_score: 0
   opp_score: 0
+- away: BELMO
+  team: B
+  label: Midweek Cup
+  date: '2022-05-19'
+  our_score: 0
+  opp_score: 0
 - away: BELFA
   date: '2022-05-25'
   our_score: 0

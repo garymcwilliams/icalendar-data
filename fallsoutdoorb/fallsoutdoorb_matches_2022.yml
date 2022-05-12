@@ -22,9 +22,9 @@ matches:
   our_score: 0
   opp_score: 0
 - away: PORTS
-  label: IBA Junior Cup
+  label: IBA Junior Cup (W/O)
   date: '2022-05-21'
-  our_score: 0
+  our_score: 1
   opp_score: 0
 - home: SAINT
   date: '2022-05-24'
@@ -33,7 +33,7 @@ matches:
   opp_score: 0
 - home: EWART
   team: B
-  label: Junior Cup
+  label: PG Junior Cup
   date: '2022-05-26'
   start_time: '18:30'
   our_score: 0
@@ -43,9 +43,14 @@ matches:
   date: '2022-05-28'
   our_score: 0
   opp_score: 0
+- home: UNKNOWN
+  label: IBA Junior Cup
+  date: '2022-06-04'
+  our_score: 0
+  opp_score: 0
 - away: UTRAN
   team: A
-  date: '2022-06-04'
+  date: '2022-06-07'
   our_score: 0
   opp_score: 0
 - home: COMBR

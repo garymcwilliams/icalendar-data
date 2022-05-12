@@ -14,8 +14,8 @@ matches:
 - home: BALLM
   team: B
   date: '2022-05-07'
-  our_score: 0
-  opp_score: 0
+  our_score: 3
+  opp_score: 4
 - away: FORTH
   team: A
   date: '2022-05-14'
@@ -50,7 +50,9 @@ matches:
   opp_score: 0
 - away: UTRAN
   team: A
-  date: '2022-06-07'
+  date: '2022-06-04'
+  newdate: '2022-06-07'
+  newtime: '18:30'
   our_score: 0
   opp_score: 0
 - home: COMBR

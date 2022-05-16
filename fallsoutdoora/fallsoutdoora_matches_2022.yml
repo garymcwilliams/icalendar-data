@@ -21,8 +21,8 @@ matches:
   date: '2022-05-14'
   newdate: '2022-05-14'
   newtime: '12:30'
-  our_score: 0
-  opp_score: 0
+  our_score: 2
+  opp_score: 5
 - away: CLIFT
   date: '2022-05-21'
   our_score: 0

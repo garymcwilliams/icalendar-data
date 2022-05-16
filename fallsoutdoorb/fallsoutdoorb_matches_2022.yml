@@ -19,8 +19,8 @@ matches:
 - away: FORTH
   team: A
   date: '2022-05-14'
-  our_score: 0
-  opp_score: 0
+  our_score: 1
+  opp_score: 6
 - away: PORTS
   label: IBA Junior Cup (W/O)
   date: '2022-05-21'

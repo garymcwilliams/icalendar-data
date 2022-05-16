@@ -11,4 +11,4 @@ docker run -p 5000:5000 \
     -e "ICAL_TEAM=${COMP}" -e "ICAL_YEAR=2022" -e "ICAL_OUTPUT=/opt/ics-data" \
     -v "//c/Users/gmcwilliams/OneDrive:/app/OneDrive" \
     -v "//c/Users/gmcwilliams/OneDrive:/app/icalendar-data" \
-    icalendar $DEBUG
+    ggbowlscalendar $DEBUG

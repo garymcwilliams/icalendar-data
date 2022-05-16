@@ -2,11 +2,12 @@ FROM garymcwilliams/ggbowlscalendar-app
 
 LABEL maintainer gary@mc-williams.co.uk
 
-WORKDIR /app
+WORKDIR /app-data
 
 # copy current data, requires docker-build on each edit of data
-COPY . /app-data
+COPY . ./
 
 ENV ICAL_DATAPATH /app-data
 
-CMD ["python", "main.py"]
+# reset dir to the main app folder
+WORKDIR /app

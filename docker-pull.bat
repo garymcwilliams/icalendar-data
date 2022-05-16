@@ -1,3 +1,3 @@
 @echo off
 
-docker pull garymcwilliams/icalendar:latest
+docker pull garymcwilliams/ggbowlscalendar:latest

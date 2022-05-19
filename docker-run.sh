@@ -1,14 +1,9 @@
 #!/bin/bash
 
-DEBUG=""
-#DEBUG, gets a terminal to allow inspecting of the image contents
-#DEBUG="/bin/bash"
+TEAM=${1:-stcolmans}
+YEAR=${2:-2022}
 
-COMP=${1:-stcolmans}
-# allow dynamic mount of app  data, HOWEVER we prefer rebuilding the image with the data in place on each edit
-#-e "ICAL_DATAPATH=/app-data" -v "$PWD:/app-data"
 docker run -p 5000:5000 \
-    -e "ICAL_TEAM=${COMP}" -e "ICAL_YEAR=2022" -e "ICAL_OUTPUT=/opt/ics-data" \
-    -v "//c/Users/gmcwilliams/OneDrive:/app/OneDrive" \
-    -v "//c/Users/gmcwilliams/OneDrive:/app/icalendar-data" \
-    ggbowlscalendar $DEBUG
+    -e "ICAL_TEAM=${TEAM}" -e "ICAL_YEAR=${YEAR}" -e "ICAL_OUTPUT=/opt/ics-data" \
+    -v "/mnt/d/Users/gmcwilliams/OneDrive/Documents/personal:/opt/ics-data" \
+    garymcwilliams/ggbowlscalendar

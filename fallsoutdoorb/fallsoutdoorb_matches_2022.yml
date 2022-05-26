@@ -29,12 +29,8 @@ matches:
 - home: SAINT
   date: '2022-05-24'
   start_time: '18:30'
-  our_score: 0
-  opp_score: 0
-- home: EWART
-  team: B
-  label: PG Junior Cup
-  date: '2022-05-26'
+  our_score: 5.5
+  opp_score: 1.5
   start_time: '18:30'
   our_score: 0
   opp_score: 0
@@ -43,9 +39,10 @@ matches:
   date: '2022-05-28'
   our_score: 0
   opp_score: 0
-- home: UNKNOWN
+- home: DROMO
   label: IBA Junior Cup
   date: '2022-06-04'
+  start_time: '17:30'
   our_score: 0
   opp_score: 0
 - away: UTRAN

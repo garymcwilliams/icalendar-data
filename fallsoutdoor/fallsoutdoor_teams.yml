@@ -46,6 +46,9 @@ teams:
   DOWNP:
     name: Downpatrick
     location: 87PM+C9Q Downpatrick
+  DROMO:
+    name: Dromore
+    location: TBD
   DUNBA:
     name: Dunbarton
     location: 54 Dunbarton St Gilford Craigavon BT63 6HJ

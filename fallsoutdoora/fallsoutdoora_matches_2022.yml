@@ -26,9 +26,9 @@ matches:
 - away: CLIFT
   date: '2022-05-21'
   our_score: 0
-  opp_score: 0
+  opp_score: 7
 - away: WILLO
-  team: B
+  team: A
   date: '2022-05-28'
   our_score: 0
   opp_score: 0

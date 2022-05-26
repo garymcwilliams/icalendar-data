@@ -1,6 +1,6 @@
 #!/bin/bash
 
-TEAM=${1:-stcolmans}
+TEAM=${1:-fallsoutdoora}
 YEAR=${2:-2022}
 
 docker run -p 5000:5000 \

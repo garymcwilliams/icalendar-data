@@ -38,9 +38,11 @@ matches:
   start_time: '18:30'
   our_score: 0
   opp_score: 0
-- home: UNKNOWN
+- home: WHITE
+  team: B
   label: IBA Intermediate Cup
   date: '2022-06-04'
+  start_time: '13:00'
   our_score: 0
   opp_score: 0
 - home: DUNBA

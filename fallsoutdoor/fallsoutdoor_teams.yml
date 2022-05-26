@@ -109,6 +109,9 @@ teams:
   UTRAN:
     name: U Transport
     location: 25 Lynda Ave, Newtownabbey BT37 0NX
+  WHITE:
+    name: Whitehead
+    location: TBD
   WILLO:
     name: Willowfield
     location: 20 Gibson Park Gardens, Belfast BT6 9GN

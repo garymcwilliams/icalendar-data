@@ -19,11 +19,11 @@ matches:
   label: Midweek Cup
   date: '2022-05-19'
   our_score: 0
-  opp_score: 0
+  opp_score: 1
 - home: LARNE
   date: '2022-05-25'
-  our_score: 0
-  opp_score: 0
+  our_score: 0.5
+  opp_score: 5.5
 - away: CLIFT
   date: '2022-06-01'
   our_score: 0

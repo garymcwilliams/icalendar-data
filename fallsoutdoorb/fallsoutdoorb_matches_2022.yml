@@ -60,6 +60,12 @@ matches:
   date: '2022-06-11'
   our_score: 0
   opp_score: 0
+- home: DOWNP
+  label: PG Junior Cup
+  date: '2022-06-16'
+  start_time: '18:30'
+  our_score: 0
+  opp_score: 0
 - away: PICKI
   team: B
   date: '2022-06-18'

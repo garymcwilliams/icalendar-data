@@ -31,6 +31,13 @@ matches:
   start_time: '18:30'
   our_score: 5.5
   opp_score: 1.5
+- home: EWART
+  team: B
+  label: PG Junior Cup
+  date: '2022-05-26'
+  start_time: '18:30'
+  our_score: 1
+  opp_score: 0
 - home: HILDE
   team: A
   date: '2022-05-28'

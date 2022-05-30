@@ -30,8 +30,8 @@ matches:
 - away: WILLO
   team: A
   date: '2022-05-28'
-  our_score: 0
-  opp_score: 0
+  our_score: 6
+  opp_score: 1
 - away: CLIFT
   label: Senior Cup
   date: '2022-06-02'

@@ -4,6 +4,9 @@ The Data for the app has 2 requirements, defined as follows
 
 == Teams
 
+There should be a specific `team` file for each team being used. This file should be in the specfic `team` folder, e.g. `stcolmans`
+NOTE: all `fallsoutdoor` teams share one single `fallsoutdoor` teams file.
+
 The teams format is:
 [source,yaml,indent=0]
 ----

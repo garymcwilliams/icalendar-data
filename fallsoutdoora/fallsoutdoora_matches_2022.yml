@@ -36,14 +36,14 @@ matches:
   label: Senior Cup
   date: '2022-06-02'
   start_time: '18:30'
-  our_score: 0
+  our_score: 1
   opp_score: 0
 - home: WHITE
   team: B
   label: IBA Intermediate Cup
   date: '2022-06-04'
   start_time: '13:00'
-  our_score: 0
+  our_score: 1
   opp_score: 0
 - home: DUNBA
   team: B
@@ -56,9 +56,25 @@ matches:
   date: '2022-06-11'
   our_score: 0
   opp_score: 0
+- home: BALYO
+  team: B
+  label: IBA Intermediate Cup
+  date: '2022-06-18'
+  start_time: '13:00'
+  our_score: 0
+  opp_score: 0
 - home: MOSSL
   team: A
   date: '2022-06-18'
+  newdate: '2022-06-21'
+  newtime: '18:30'
+  our_score: 0
+  opp_score: 0
+- home: ARDS
+  team: A
+  label: PG Senior Cup
+  date: '2022-06-23'
+  start_time: '18:30'
   our_score: 0
   opp_score: 0
 - home: OLDBL

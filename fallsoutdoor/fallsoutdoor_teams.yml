@@ -28,6 +28,9 @@ teams:
   BALLW:
     name: Ballywalter
     location: GGP7+GX Newtownards
+  BALYO:
+    name: Ballymoney
+    location: 37A Church Street, Ballymoney, BT53 6HS
   BELFA:
     name: Belfast
     location: TBD

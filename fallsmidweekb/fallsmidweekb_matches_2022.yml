@@ -24,6 +24,11 @@ matches:
   date: '2022-06-08'
   our_score: 0
   opp_score: 0
+- home: OWENB
+  label: Midweek Cup
+  date: '2022-06-09'
+  our_score: 0
+  opp_score: 0
 - home: FORTH
   date: '2022-06-15'
   our_score: 0

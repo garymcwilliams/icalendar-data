@@ -7,17 +7,20 @@ matches:
   label: Falls Pairs
   our_score: 0
   opp_score: 0
-- home: Mullen (Downpatrick)
+- home: DOWNP
+  team: Mullen
   date: '2022-06-03'
   label: NIPGL Junior Fours
   our_score: 0
-  opp_score: 0
+  opp_score: 1
 - away: OLDBL
+  team: R Kirkwood
   date: '2022-06-10'
-  label: NIPGL Triples R Kirkwood
+  label: NIPGL Triples
   our_score: 0
   opp_score: 0
-- home: T Brown (UTBC)
+- home: UTRAN
+  team: T Brown
   date: '2022-06-14'
   label: NIPGL Senior Fours
   our_score: 0
@@ -25,11 +28,6 @@ matches:
 - home: M McCarney
   date: '2022-06-26'
   label: Falls Open Singles
-  our_score: 0
-  opp_score: 0
-- away: UNKNOWN
-  date: '2022-06-27'
-  label: NIPGL Junior Pairs
   our_score: 0
   opp_score: 0
 - home: M Gannon

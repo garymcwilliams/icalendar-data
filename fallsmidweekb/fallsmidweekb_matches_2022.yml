@@ -4,30 +4,26 @@ duration: 3
 matches:
 - away: SHAFT
   date: '2022-05-11'
-  our_score: 0
-  opp_score: 0
+  our_score: 2
+  opp_score: 5
 - away: BELMO
   team: B
   label: Midweek Cup
   date: '2022-05-19'
   our_score: 1
   opp_score: 0
-- away: BELFA
-  date: '2022-05-25'
-  our_score: 0
-  opp_score: 0
 - home: KNOCK
   date: '2022-06-01'
-  our_score: 0
-  opp_score: 0
+  our_score: 1
+  opp_score: 6
 - away: SALIS
   date: '2022-06-08'
   our_score: 0
-  opp_score: 0
+  opp_score: 7
 - home: OWENB
   label: Midweek Cup
   date: '2022-06-09'
-  our_score: 0
+  our_score: 1
   opp_score: 0
 - home: FORTH
   date: '2022-06-15'

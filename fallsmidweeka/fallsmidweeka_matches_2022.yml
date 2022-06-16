@@ -12,7 +12,7 @@ matches:
   opp_score: 2
 - away: EWART
   date: '2022-05-18'
-  newdate: '2022-05-17'
+  newdate: '2022-06-20'
   our_score: 0
   opp_score: 0
 - away: PICKI
@@ -34,8 +34,8 @@ matches:
   opp_score: 1.5
 - away: PICKI
   date: '2022-06-15'
-  our_score: 0
-  opp_score: 0
+  our_score: 5
+  opp_score: 2
 - home: DUNBA
   date: '2022-06-22'
   our_score: 0

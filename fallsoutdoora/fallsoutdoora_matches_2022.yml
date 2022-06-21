@@ -61,7 +61,7 @@ matches:
   label: IBA Intermediate Cup
   date: '2022-06-18'
   start_time: '13:00'
-  our_score: 0
+  our_score: 1
   opp_score: 0
 - home: MOSSL
   team: A
@@ -92,8 +92,14 @@ matches:
   date: '2022-07-09'
   our_score: 0
   opp_score: 0
+- away: LURGN
+  label: IBA Intermediate Cup
+  date: '2022-07-23'
+  our_score: 0
+  opp_score: 0
 - away: BALLW
   date: '2022-07-23'
+  newdate: '2022-07-26'
   our_score: 0
   opp_score: 0
 - home: CLIFT

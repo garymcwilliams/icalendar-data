@@ -64,14 +64,14 @@ matches:
   label: PG Junior Cup
   date: '2022-06-16'
   start_time: '18:30'
-  our_score: 0
+  our_score: 1
   opp_score: 0
 - home: COMBR
   label: IBA Junior Cup
   date: '2022-06-18'
   start_time: '17:30'
   our_score: 0
-  opp_score: 0
+  opp_score: 1
 - away: PICKI
   team: B
   date: '2022-06-18'
@@ -86,6 +86,13 @@ matches:
   opp_score: 0
 - home: DOWNP
   date: '2022-07-02'
+  our_score: 0
+  opp_score: 0
+- home: KNOCK
+  team: A
+  label: PG Junior Cup
+  date: '2022-07-07'
+  start_time: '18:30'
   our_score: 0
   opp_score: 0
 - away: BALLM

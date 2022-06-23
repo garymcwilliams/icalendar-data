@@ -38,8 +38,8 @@ matches:
   opp_score: 2
 - home: DUNBA
   date: '2022-06-22'
-  our_score: 0
-  opp_score: 0
+  our_score: 1
+  opp_score: 6
 - away: BELMO
   team: A
   date: '2022-06-29'

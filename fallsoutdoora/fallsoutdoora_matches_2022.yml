@@ -76,12 +76,12 @@ matches:
   date: '2022-06-23'
   start_time: '18:30'
   our_score: 0
-  opp_score: 0
+  opp_score: 1
 - home: OLDBL
   team: B
   date: '2022-06-25'
-  our_score: 0
-  opp_score: 0
+  our_score: 3.5
+  opp_score: 3.5
 - away: BELMO
   team: B
   date: '2022-07-02'

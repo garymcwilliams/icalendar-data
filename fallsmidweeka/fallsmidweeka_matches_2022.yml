@@ -43,12 +43,12 @@ matches:
 - away: BELMO
   team: A
   date: '2022-06-29'
-  our_score: 0
-  opp_score: 0
+  our_score: 2
+  opp_score: 5
 - home: COMBR
   date: '2022-07-06'
-  our_score: 0
-  opp_score: 0
+  our_score: 0.5
+  opp_score: 6.5
 - away: UTRAN
   date: '2022-07-27'
   our_score: 0

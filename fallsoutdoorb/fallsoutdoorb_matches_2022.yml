@@ -77,17 +77,17 @@ matches:
   date: '2022-06-18'
   newdate: '2022-06-21'
   newtime: '18:30'
-  our_score: 0
-  opp_score: 0
+  our_score: 0.5
+  opp_score: 6.5
 - away: KNOCK
   team: A
   date: '2022-06-25'
-  our_score: 0
-  opp_score: 0
+  our_score: 1
+  opp_score: 6
 - home: DOWNP
   date: '2022-07-02'
-  our_score: 0
-  opp_score: 0
+  our_score: 5.5
+  opp_score: 1.5
 - home: KNOCK
   team: A
   label: PG Junior Cup

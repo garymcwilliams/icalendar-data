@@ -93,7 +93,7 @@ matches:
   label: PG Junior Cup
   date: '2022-07-07'
   start_time: '18:30'
-  our_score: 0
+  our_score: 1
   opp_score: 0
 - away: BALLM
   team: B
@@ -112,6 +112,13 @@ matches:
 - away: HILDE
   team: A
   date: '2022-08-06'
+  our_score: 0
+  opp_score: 0
+- away: UTRAN
+  team: A
+  label: PG Junior Cup
+  date: '2022-08-11'
+  start_time: '18:30'
   our_score: 0
   opp_score: 0
 - home: UTRAN

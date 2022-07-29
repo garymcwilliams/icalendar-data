@@ -41,12 +41,13 @@ matches:
 - home: BELMO
   team: B
   date: '2022-06-29'
+  newdate: '2022-08-24'
   our_score: 0
   opp_score: 0
 - away: MAGHD
   date: '2022-07-06'
-  our_score: 0
-  opp_score: 0
+  our_score: 0.5
+  opp_score: 6.5
 - home: WILLO
   date: '2022-07-27'
   our_score: 0

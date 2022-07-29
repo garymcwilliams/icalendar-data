@@ -98,13 +98,13 @@ matches:
 - away: BALLM
   team: B
   date: '2022-07-09'
-  our_score: 0
-  opp_score: 0
+  our_score: 1
+  opp_score: 6
 - home: FORTH
   team: A
   date: '2022-07-23'
   our_score: 0
-  opp_score: 0
+  opp_score: 7
 - away: SAINT
   date: '2022-07-30'
   our_score: 0

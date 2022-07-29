@@ -12,7 +12,7 @@ matches:
   opp_score: 2
 - away: EWART
   date: '2022-05-18'
-  newdate: '2022-06-20'
+  newdate: '2022-08-02'
   our_score: 0
   opp_score: 0
 - away: PICKI
@@ -51,8 +51,8 @@ matches:
   opp_score: 6.5
 - away: UTRAN
   date: '2022-07-27'
-  our_score: 0
-  opp_score: 0
+  our_score: 6
+  opp_score: 1
 - away: NICS
   date: '2022-08-03'
   our_score: 0

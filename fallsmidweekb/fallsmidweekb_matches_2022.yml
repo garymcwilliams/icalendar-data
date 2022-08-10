@@ -37,7 +37,7 @@ matches:
   label: Midweek Cup
   date: '2022-06-30'
   our_score: 0
-  opp_score: 0
+  opp_score: 1
 - home: BELMO
   team: B
   date: '2022-06-29'
@@ -54,8 +54,8 @@ matches:
   opp_score: 0
 - home: DOWNP
   date: '2022-08-03'
-  our_score: 0
-  opp_score: 0
+  our_score: 2
+  opp_score: 5
 - away: OLDBL
   date: '2022-08-10'
   our_score: 0

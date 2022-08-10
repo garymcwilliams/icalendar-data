@@ -108,12 +108,12 @@ matches:
 - away: SAINT
   date: '2022-07-30'
   our_score: 0
-  opp_score: 0
+  opp_score: 7
 - away: HILDE
   team: A
   date: '2022-08-06'
-  our_score: 0
-  opp_score: 0
+  our_score: 1
+  opp_score: 6
 - away: UTRAN
   team: A
   label: PG Junior Cup

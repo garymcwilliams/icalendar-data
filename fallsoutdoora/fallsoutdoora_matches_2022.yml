@@ -54,8 +54,8 @@ matches:
 - away: EWART
   team: A
   date: '2022-06-11'
-  our_score: 0
-  opp_score: 0
+  our_score: 6
+  opp_score: 1
 - home: BALYO
   team: B
   label: IBA Intermediate Cup
@@ -68,8 +68,8 @@ matches:
   date: '2022-06-18'
   newdate: '2022-06-21'
   newtime: '18:30'
-  our_score: 0
-  opp_score: 0
+  our_score: 2
+  opp_score: 5
 - home: ARDS
   team: A
   label: PG Senior Cup

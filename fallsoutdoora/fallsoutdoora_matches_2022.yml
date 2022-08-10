@@ -105,16 +105,17 @@ matches:
   opp_score: 3.5
 - home: CLIFT
   date: '2022-07-30'
-  our_score: 0
-  opp_score: 0
+  our_score: 5.5
+  opp_score: 1.5
 - home: WILLO
   team: A
   date: '2022-08-06'
-  our_score: 0
-  opp_score: 0
+  our_score: 4.5
+  opp_score: 2.5
 - away: DUNBA
   team: B
   date: '2022-08-13'
+  newdate: '2022-08-16'
   our_score: 0
   opp_score: 0
 - home: EWART

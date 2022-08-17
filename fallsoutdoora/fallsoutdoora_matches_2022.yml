@@ -117,8 +117,8 @@ matches:
   date: '2022-08-13'
   newdate: '2022-08-16'
   newtime: '18:30'
-  our_score: 0
-  opp_score: 0
+  our_score: 5
+  opp_score: 2
 - home: EWART
   team: A
   date: '2022-08-27'

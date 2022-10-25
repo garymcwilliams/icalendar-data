@@ -1,3 +1,5 @@
+me: FALLS1
+start_time: '19:30'
 teams:
   AFM:
     location: unknown
@@ -14,18 +16,20 @@ teams:
   EWART:
     location: 15 Somerdale Park, Belfast, BT14 7HD
     name: Ewarts
-  FALLSIA:
-    location: Falls Bowling & Tennis Club, 63 Andersonstown Rd, Belfast, Belfast BT11 9AH, United Kingdom
-    name: Falls
+  FALLS1:
+    location: Falls Bowling & Tennis Club, 63 Andersonstown Rd, Belfast, Belfast BT11
+      9AH, United Kingdom
+    name: Falls 1
+  FALLS2:
+    location: Falls Bowling & Tennis Club, 63 Andersonstown Rd, Belfast, Belfast BT11
+      9AH, United Kingdom
+    name: Falls 2
   KINGH:
     location: unknown
     name: Kinghan
   SALIS:
     location: 47 Beechmount Avenue, Belfast BT12, UK
     name: Salisbury
-  STBRI:
-    location: unknown
-    name: St Brigids
   SYDEN:
     location: unknown
     name: Sydenham

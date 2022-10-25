@@ -6,6 +6,9 @@ import argparse
 from datetime import date, timedelta, datetime
 from envparse import env
 
+print("Deprecated, please use generate from ggbowlscalendar")
+exit
+
 parser = argparse.ArgumentParser(description="Generate Bowls matches.")
 parser.add_argument("-t", "--team")
 parser.add_argument("-y", "--year")

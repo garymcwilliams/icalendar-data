@@ -11,12 +11,11 @@ teams:
   BALLI:
     location: GX88+VR Lisburn
     name: Ballinderry
-    start_time: '20:30'
   BROOM:
     location: St Mathews Church Hall, Lurganure Road, Lisburn BT28 2TST
     name: Broomhedge
   DERRI:
-    location: TBD
+    location: 20 Derriaghy Rd, Belfast, Lisburn BT28 3FP
     name: Derriaghy
   EGLAN:
     location: All Saints' Parish, Eglantine, Eglantine Road, Lisburn BT27 5RQ
@@ -55,7 +54,6 @@ teams:
   SOLDI:
     location: 53 Soldierstown Rd, Aghalee, Craigavon
     name: Soldierstown
-    start_time: '20:15'
   STCLA:
     location: 55 Chapel Rd, Glenavy, Crumlin BT29 4LX
     name: St Clares

@@ -14,7 +14,7 @@ matches:
   date: '2022-11-02'
   our_score: 0
   opp_score: 0
-- away: CLIFT
+- away: Bye
   date: '2022-11-10'
   our_score: 0
   opp_score: 0
@@ -42,7 +42,7 @@ matches:
   date: '2023-01-25'
   our_score: 0
   opp_score: 0
-- home: CLIFT
+- home: Bye
   date: '2023-02-01'
   our_score: 0
   opp_score: 0

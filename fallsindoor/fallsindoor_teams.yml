@@ -6,7 +6,7 @@ teams:
     location: Falls Bowling & Tennis Club, 63 Andersonstown Rd, Belfast, Belfast BT11
       9AH, United Kingdom
     name: Falls B
-  FALLSIA:
+  FALLA:
     location: Falls Bowling & Tennis Club, 63 Andersonstown Rd, Belfast, Belfast BT11
       9AH, United Kingdom
     name: Falls A
@@ -25,6 +25,7 @@ teams:
   STANN:
     location: St Anne's Presbytery, Kingsway, Belfast BT10 0LF
     name: St Anne's
+    start_time: '12:30'
   STMIC:
     location: St. Michaels chapel, 327 Finaghy Rd N, Belfast BT11 9EH, UK
     name: St Michael's

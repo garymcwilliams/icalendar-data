@@ -25,21 +25,27 @@ matches:
 - home: BALLI
   date: '2022-12-01'
   our_score: 0
-  opp_score: 0
+  opp_score: 7
 - away: HILDE
   date: '2022-12-08'
   our_score: 0
   opp_score: 0
 - home: SOLDI
   date: '2022-12-15'
+  our_score: 6
+  opp_score: 1
+- home: ROCK
+  date: '2023-01-05'
+  label: 'Charity Cup'
   our_score: 0
-  opp_score: 0
+  opp_score: 1
 - away: PRIES
   date: '2023-01-10'
   our_score: 0
   opp_score: 0
 - home: ANNAH
   date: '2023-01-19'
+  newdate: '2023-01-12'
   our_score: 0
   opp_score: 0
 - away: DERRI
